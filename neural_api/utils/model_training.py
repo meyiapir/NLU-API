@@ -148,7 +148,6 @@ def draw_graph(data: np.ndarray, good_models: int, scores_v: str) -> None:
     plt.xlim(0, data.size)
     plt.plot(data)
 
-    plt.show()
     fig.savefig(f'{path}\\work_data\\graphics_data\\scores_{START_TIME}.png')
     plt.close()
 
