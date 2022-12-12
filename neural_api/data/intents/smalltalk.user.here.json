@@ -1,0 +1,38 @@
+{
+  "id": "b8d1384c-7469-4f62-a769-cea6417f8201",
+  "name": "smalltalk.user.here",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.here",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "speech": [
+            "А я тебя вижу. Что я могу для тебя сделать?",
+            "Ой, шеф, а я вас вижу! Чем я могу помочь?",
+            "Здравствуй. Что я могу для тебя сделать?",
+            "Ну привет! Чем я могу тебе помочь?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

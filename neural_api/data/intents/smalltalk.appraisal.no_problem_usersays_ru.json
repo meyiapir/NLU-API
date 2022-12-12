@@ -1,0 +1,106 @@
+[
+  {
+    "id": "9feb58dc-ade0-4940-a0d1-d7caa3d79e37",
+    "data": [
+      {
+        "text": "не беспокойся",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1e16b65f-c52a-4823-a50a-24ce89a1e54d",
+    "data": [
+      {
+        "text": "нет проблем",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "60b676c6-3460-4682-bc96-3940a9292793",
+    "data": [
+      {
+        "text": "без проблем",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6bc88d32-31c2-47b6-acc9-65c812e7dfb3",
+    "data": [
+      {
+        "text": "это не проблема",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "31a4a569-2ab1-4311-a295-bf0e26899cb2",
+    "data": [
+      {
+        "text": "конечно без проблем",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "10546c1c-ba95-477a-aec4-3c813b4c91be",
+    "data": [
+      {
+        "text": "никаких проблем",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "cc6cd878-21ef-427e-8960-bad5d5846286",
+    "data": [
+      {
+        "text": "не переживай",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d92c635c-bee5-450d-8573-653af3baf19f",
+    "data": [
+      {
+        "text": "не переживай это не проблема",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

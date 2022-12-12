@@ -1,0 +1,142 @@
+[
+  {
+    "id": "bbdf8ebb-4dc8-4bec-95b2-11d57f096c68",
+    "data": [
+      {
+        "text": "где ты там",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "994918a9-f38b-436f-8954-e9fd6a8092d3",
+    "data": [
+      {
+        "text": "ты вообще где",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e2278236-2b2c-4615-834a-0cde198ed49b",
+    "data": [
+      {
+        "text": "где ",
+        "userDefined": false
+      },
+      {
+        "text": "же",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " ты ",
+        "userDefined": false
+      },
+      {
+        "text": "сейчас",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "072339e7-2fa4-444a-ada6-3a2850fff8c6",
+    "data": [
+      {
+        "text": "ну и где ты",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3b0d43e8-6c82-49b7-9157-8b668fcb3a0d",
+    "data": [
+      {
+        "text": "ты ",
+        "userDefined": false
+      },
+      {
+        "text": "сейчас",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " где",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "7832933f-e924-4989-9a90-c14509820f69",
+    "data": [
+      {
+        "text": "где ",
+        "userDefined": false
+      },
+      {
+        "text": "же",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " ты",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "36aa78e2-a3c0-4c8e-987d-22b3cbbaa001",
+    "data": [
+      {
+        "text": "где ты",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ce76d6de-8f3b-40a1-bb88-10bf4a5bbaa5",
+    "data": [
+      {
+        "text": "ты где",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

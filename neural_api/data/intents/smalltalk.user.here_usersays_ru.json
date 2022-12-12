@@ -1,0 +1,80 @@
+[
+  {
+    "id": "af664e6b-01e9-45cb-b7fd-fdf2da31645c",
+    "data": [
+      {
+        "text": "я нахожусь здесь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "340c856d-42fd-4bfd-8a35-c22893aa35e5",
+    "data": [
+      {
+        "text": "я здесь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d9aa922e-d32e-40de-a352-9d0cbd2d6a6c",
+    "data": [
+      {
+        "text": "тут я",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b9acbb23-f772-4214-b095-6b5fcd7c7001",
+    "data": [
+      {
+        "text": "я прямо здесь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a7202ea8-a800-4003-86c6-8d44bfb86743",
+    "data": [
+      {
+        "text": "я уже здесь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d7db0abd-b67c-4b2d-bf80-e3602f186493",
+    "data": [
+      {
+        "text": "я тут",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

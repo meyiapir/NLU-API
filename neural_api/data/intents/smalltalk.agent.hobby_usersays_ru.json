@@ -1,0 +1,93 @@
+[
+  {
+    "id": "e921b09a-5d37-4052-b88b-85fa65ffcd98",
+    "data": [
+      {
+        "text": "какие у тебя увлечения",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "69395a02-76d6-4431-8937-b9b847f60bfd",
+    "data": [
+      {
+        "text": "твои хобби",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "34cd7baf-9659-49bc-b3f8-125580687671",
+    "data": [
+      {
+        "text": "расскажи про своё хобби",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "fff07d3b-275e-4b1c-8e08-76bef5451968",
+    "data": [
+      {
+        "text": "у тебя есть увлечение",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "0b798256-22e0-44bc-b042-0b4a5b9bad64",
+    "data": [
+      {
+        "text": "твои увлечения",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "439f2e83-5926-4853-8f5a-41b92be65a59",
+    "data": [
+      {
+        "text": "скажи у тебя есть хобби",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b10cfdda-b32b-461b-8964-2c6fef086926",
+    "data": [
+      {
+        "text": "какие у тебя хобби",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

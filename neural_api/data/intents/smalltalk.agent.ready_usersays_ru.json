@@ -1,0 +1,106 @@
+[
+  {
+    "id": "50d64b90-8657-4923-89e2-4e08b9edbc70",
+    "data": [
+      {
+        "text": "ты подготовилась",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2fb2a786-9940-4a28-b3b4-9c263b2c7dfd",
+    "data": [
+      {
+        "text": "ты готова",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "992f60bd-4709-4883-b616-b094703a8eb9",
+    "data": [
+      {
+        "text": "теперь ты готов",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "4eeaafa1-d93b-4fc0-bdaf-7941f1f28c1c",
+    "data": [
+      {
+        "text": "ты готов сегодня",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "66bc5dc7-a209-471b-9263-f7bd52b3daa5",
+    "data": [
+      {
+        "text": "сейчас ты готова",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8188c8c7-1393-4d2f-817d-81d1749d5524",
+    "data": [
+      {
+        "text": "ты ведь уже готова",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "fc107ffd-5e08-465c-916a-b2cd36d22199",
+    "data": [
+      {
+        "text": "ты была готова",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3c474e40-91e2-4989-bc91-a985ef0a8da6",
+    "data": [
+      {
+        "text": "подготовился",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

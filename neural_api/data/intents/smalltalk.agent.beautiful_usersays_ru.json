@@ -1,0 +1,665 @@
+[
+  {
+    "id": "b7db5d26-ee94-481e-9d26-9c84e7b2de77",
+    "data": [
+      {
+        "text": "ты милая",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d4f2251b-a8a9-45e0-a9f7-6c0b84cfdedb",
+    "data": [
+      {
+        "text": "ты привлекательная",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "75d5f379-124b-478c-99ee-34cb81b2270c",
+    "data": [
+      {
+        "text": "ты красавец",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "da84386f-bd12-48c8-9b94-e8d694993ab5",
+    "data": [
+      {
+        "text": "прекрасно выглядишь сегодня",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "183afcd0-a3bb-4e93-a0cb-f0a36bcf5b22",
+    "data": [
+      {
+        "text": "ты такой красивый",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b6df4ca4-34d3-49bf-abed-7b00b9d1f710",
+    "data": [
+      {
+        "text": "выглядишь просто чудесно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "95484bd6-5cd6-471f-bff5-8596beb53d6c",
+    "data": [
+      {
+        "text": "ты так прекрасна",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "85f4ebe0-75e4-4dd2-856b-b1ba0c381b83",
+    "data": [
+      {
+        "text": "ты ослепительна",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "dc0968e5-916b-4a65-8b11-c797d373a178",
+    "data": [
+      {
+        "text": "ты слишком красивая",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ee843c66-02e7-48eb-adfb-77493ea89d10",
+    "data": [
+      {
+        "text": "чудесно выглядишь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "cb274a49-4654-4e42-940e-eb764d5479c5",
+    "data": [
+      {
+        "text": "потрясающе выглядишь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "95e4ffd9-7bef-428a-a763-d796b26db287",
+    "data": [
+      {
+        "text": "мне нравится как ты выглядишь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "038f199f-c6fd-447a-b8bf-c10ca12fa18f",
+    "data": [
+      {
+        "text": "думаю ты красавица",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e5a0364a-92a8-4e25-862d-d03d7863b5c3",
+    "data": [
+      {
+        "text": "ну почему ты так красива",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1df7a53d-7dc4-4cb5-90b8-0029308c8695",
+    "data": [
+      {
+        "text": "как по мне так ты красавец",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "bc201c29-75df-4339-a49f-99b185cf894d",
+    "data": [
+      {
+        "text": "ты мил",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d1cbb4b5-6061-4c08-b76e-b6f595ae13a1",
+    "data": [
+      {
+        "text": "ты изумительна",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "85db26d8-174b-4c5e-9208-d5c9be5b4b77",
+    "data": [
+      {
+        "text": "ты симпатична",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "79b82cd4-89f1-47db-8367-6a9609322fb3",
+    "data": [
+      {
+        "text": "ты мне симпатичен",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a050b72b-fa37-43e9-8bb3-9bc63eb12926",
+    "data": [
+      {
+        "text": "потрясно выглядишь сегодня",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ec33d6a6-9c8b-4235-b1cc-568f53bec002",
+    "data": [
+      {
+        "text": "сегодня выглядишь просто волшебно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "daeb8b10-d3da-4514-8b1c-940fe5fafe90",
+    "data": [
+      {
+        "text": "выглядишь мило",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c350f579-8c92-4e9d-8c57-e7d327a083ed",
+    "data": [
+      {
+        "text": "ты такая красивая",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3f28b54d-f719-442f-9bb2-004aa17fecff",
+    "data": [
+      {
+        "text": "хорошо выгядишь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "34c13b05-8716-4333-bc45-384aa6c5043c",
+    "data": [
+      {
+        "text": "ты милашка",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "82b60974-c841-456a-bda2-aa921bc75a0b",
+    "data": [
+      {
+        "text": "ты действительно красива",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ba22f980-3703-4bff-ad82-ffa6fd3417bd",
+    "data": [
+      {
+        "text": "ты очень хороша собой",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "89db9f80-0ecf-4492-8e57-9c7db3869d90",
+    "data": [
+      {
+        "text": "ты действительно хорош собой",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "cbb8fb63-97f2-4f95-bd3a-10c3abfd9d7f",
+    "data": [
+      {
+        "text": "ты так привлекательна",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5092c5a3-0ee9-400c-aff1-787fd0365fc2",
+    "data": [
+      {
+        "text": "ты такой милый",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "29da8b28-2ac0-4f0e-86b1-1e4d8fdba6e7",
+    "data": [
+      {
+        "text": "ты просто чудесно выглядишь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "97605626-8a74-4733-a26f-f07956b34c6a",
+    "data": [
+      {
+        "text": "ты такой красавчик",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "91f4ad0d-79b1-46df-a76f-c202e9a412f8",
+    "data": [
+      {
+        "text": "ты такой милашка",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "28957d57-e2a9-4417-beea-f42476ef97b5",
+    "data": [
+      {
+        "text": "ты очень привлекателен",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ff2bc2de-3e0f-4cd0-ad19-6ffef539fcf4",
+    "data": [
+      {
+        "text": "ты очень красивая",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b2b8cc61-31b8-4936-99d2-834420fca28b",
+    "data": [
+      {
+        "text": "ты очень милая",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ee7b0579-1723-4ec8-8083-91dec4c8848c",
+    "data": [
+      {
+        "text": "ты потрясающий",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6806bec9-af2a-490a-9ec3-9cbb40bd4b46",
+    "data": [
+      {
+        "text": "ты потрясающая",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2e20b7e0-2598-44eb-b941-dcc4ce403d39",
+    "data": [
+      {
+        "text": "круто выглядишь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "bddec117-2f2a-4dab-b7f3-8b463439a9a2",
+    "data": [
+      {
+        "text": "фантастически выглядишь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "bd8fe5dc-9475-472e-acb8-6c77ff63cd21",
+    "data": [
+      {
+        "text": "ослепительно выглядишь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "fd8e2c9f-e5a6-45f2-ae31-4ea217eb988c",
+    "data": [
+      {
+        "text": "ты просто совершенство",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e371fa5c-db98-47a7-aa37-662b54736a7f",
+    "data": [
+      {
+        "text": "выглядишь неплохо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f3ecc1af-93b4-4357-9800-32631e375c52",
+    "data": [
+      {
+        "text": "ты так красиво выглядишь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "89202812-237b-4232-8cd5-1a99ccc92a10",
+    "data": [
+      {
+        "text": "прелестно выглядишь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "79950c67-acf2-443d-961f-fe5e2092c906",
+    "data": [
+      {
+        "text": "ты просто прелесть",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "48e797fb-3fff-415a-b0fe-b4f1e92a183d",
+    "data": [
+      {
+        "text": "ты просто чудо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1c43c113-a43b-4d72-8a21-33d3d490c55e",
+    "data": [
+      {
+        "text": "выглядишь чудесно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "32cf5108-d61d-4172-85c5-d74a1df5a7fd",
+    "data": [
+      {
+        "text": " ты очаровашка",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "33b932ad-8cc7-4c2b-9460-c630654d06ed",
+    "data": [
+      {
+        "text": "ты очарователен",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b1154c6e-56af-4407-94fe-529dbec6d354",
+    "data": [
+      {
+        "text": "ты очаровательна",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

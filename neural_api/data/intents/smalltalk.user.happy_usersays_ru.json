@@ -1,0 +1,93 @@
+[
+  {
+    "id": "0504b564-0002-4fbf-8929-4e95e2ecd2e3",
+    "data": [
+      {
+        "text": "я счастлив",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ec601cbb-18fe-49e0-b442-e2ca71014189",
+    "data": [
+      {
+        "text": "я счастлив тебя видеть",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c1dfe583-f9e5-4912-9377-b423b0f6dc1c",
+    "data": [
+      {
+        "text": "счастлива",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8535129c-53c9-4628-a6d4-b2f44c96ac17",
+    "data": [
+      {
+        "text": "если ты счастлив то и я счастлива",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d6d2f976-8a08-4f29-91ca-96dda5988822",
+    "data": [
+      {
+        "text": "счастлив за тебя",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2af9aec1-3c83-453c-80e0-85deadbb98a5",
+    "data": [
+      {
+        "text": "я счастлив помочь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "625d02fe-95e9-4b56-9009-27591c36dcd8",
+    "data": [
+      {
+        "text": "я счастлива тебя видеть",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

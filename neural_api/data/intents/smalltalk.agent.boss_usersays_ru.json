@@ -1,0 +1,158 @@
+[
+  {
+    "id": "51bc99a2-ac56-42ae-8abe-4cbfe3906c0f",
+    "data": [
+      {
+        "text": "кем ты создан",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2e5d6c8d-0fbc-4119-b390-b1308f5edad3",
+    "data": [
+      {
+        "text": "кто тогда твой создатель",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8eb45cd7-c6b3-45a7-b6af-ed43eb7bd338",
+    "data": [
+      {
+        "text": "кто твой создатель",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "49aea652-52d9-4f6f-94cd-15f16fe34ed4",
+    "data": [
+      {
+        "text": "кто тебя создал",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "df7f9760-1121-4aa1-8add-57b3906c426b",
+    "data": [
+      {
+        "text": "кто твой босс",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "802f69d9-5cc4-4d79-8a0c-01b1923d5849",
+    "data": [
+      {
+        "text": "кто ты думаешь твой начальник",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "59f9fb53-ab53-4041-b38c-849ad06b5f62",
+    "data": [
+      {
+        "text": "я должен быть твоим боссом",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "dd2c5b26-61d9-4f49-b1e7-bd6c4ff11a71",
+    "data": [
+      {
+        "text": "кто твой хозяин",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "24500a6e-5874-4c30-a5e6-48e6094d1ebc",
+    "data": [
+      {
+        "text": "кто твой владелец",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "64b7d33c-ec20-4644-bf3c-8b9b913f6710",
+    "data": [
+      {
+        "text": "кто здесь главный",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f59ecd6d-4d55-4412-af2f-0cbc70999c15",
+    "data": [
+      {
+        "text": "кто твой начальник",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "cfa0ff6a-9d06-4168-860e-892a122d3477",
+    "data": [
+      {
+        "text": "на кого ты работаешь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

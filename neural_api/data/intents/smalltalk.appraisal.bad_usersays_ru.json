@@ -1,0 +1,405 @@
+[
+  {
+    "id": "df854597-9223-48b6-8cc8-c8eea7c4b2f6",
+    "data": [
+      {
+        "text": "плохо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "bf8461ae-911b-405f-909b-e68f50fba5d0",
+    "data": [
+      {
+        "text": "это плохо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "de7a0ad2-dcc3-4569-9964-b1c1b3b30763",
+    "data": [
+      {
+        "text": "это было плохо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2b3e6798-bcd0-42e0-9b7e-e313c6a12969",
+    "data": [
+      {
+        "text": "плохой ответ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "690d8225-cccc-4b64-8573-14369d04bf7f",
+    "data": [
+      {
+        "text": "боюсь это не так",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "62968c02-d452-462d-bf4e-866f9f648ec8",
+    "data": [
+      {
+        "text": "очень плохо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "674e9f49-f343-4951-9d9b-099d8c09d16d",
+    "data": [
+      {
+        "text": "слишком плохо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "52765570-8a30-4995-9212-b4d934754588",
+    "data": [
+      {
+        "text": "ужасно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "aa526813-241a-469a-afd1-87d36ea85366",
+    "data": [
+      {
+        "text": "отвратительно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "52efe923-61b7-43b0-a3c7-d514cfa767c4",
+    "data": [
+      {
+        "text": "невероятно плохо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "567f5163-3fdc-451c-bb82-58a2325a7964",
+    "data": [
+      {
+        "text": "крайне плохо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "89d8b9f2-9598-4c8a-9948-b29772fa1afe",
+    "data": [
+      {
+        "text": "крайне отвратительно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "72825b40-90aa-4206-b8e1-1e9a5f358435",
+    "data": [
+      {
+        "text": "ничего хорошего",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e68146f0-c264-4f2a-9ed7-1fb5cfea4199",
+    "data": [
+      {
+        "text": "недостаточно хорошо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "fa577b49-c865-46ca-b1b5-cec42c77a001",
+    "data": [
+      {
+        "text": "неубедительно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ec70aafa-673b-41d4-a1c5-ff500635cbe0",
+    "data": [
+      {
+        "text": "это было ужасно плохо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "fed96f82-b46c-4b0e-9c5b-1313a2f40b96",
+    "data": [
+      {
+        "text": "было ужасно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "cd964b6f-d703-496c-9952-e5bbc16ce992",
+    "data": [
+      {
+        "text": "да уж плохо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "08c3a7d4-9763-41ed-82e7-053f88ec9bd2",
+    "data": [
+      {
+        "text": "действительно ужасно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "35c890e6-255f-4367-b823-bca782da68a9",
+    "data": [
+      {
+        "text": "плохо очень плохо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ea180d8a-0e65-455a-91a8-d751d0390dc4",
+    "data": [
+      {
+        "text": "ужаснее не бывает",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "43a01d99-e8c7-4f87-b082-4d3a6dbfe343",
+    "data": [
+      {
+        "text": "ну очень плохо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "945127f1-be7a-446d-80ec-93e931cdd824",
+    "data": [
+      {
+        "text": "так плохо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "911ea632-e90c-487b-a417-c0565b6188c2",
+    "data": [
+      {
+        "text": "это была плохая идея",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6f48efa0-8455-4241-baf3-6147b4b97535",
+    "data": [
+      {
+        "text": "ужасная идея",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "4e8456e3-ac3a-4e06-9840-df428e103839",
+    "data": [
+      {
+        "text": "ужас",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1bb3754c-6f56-4a5f-9d56-4889992bf627",
+    "data": [
+      {
+        "text": "недостаточно хороший",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8b9c0310-a5b6-46a6-ba30-81d045ea5313",
+    "data": [
+      {
+        "text": "довольно-таки плохо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "59b7f55a-6ea5-4190-a99b-fc908018433f",
+    "data": [
+      {
+        "text": "так жутко",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "718d8825-a962-4cf2-94c7-575bd1974865",
+    "data": [
+      {
+        "text": "безобразно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "08f87ae8-ce26-4819-88ab-b7e8ef58830c",
+    "data": [
+      {
+        "text": "так ужасно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "375aef47-80c4-47fb-81c0-8a2202e677d5",
+    "data": [
+      {
+        "text": "ты счастлив",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c4f038d9-ee28-4099-b23c-fb2c8e5db710",
+    "data": [
+      {
+        "text": "теперь ты счастливая",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "4bae2f09-22d4-48e6-b31d-400a6d139676",
+    "data": [
+      {
+        "text": "ты очень счастливый",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "0bf0c93a-88b9-40f2-8baa-598dad79cf94",
+    "data": [
+      {
+        "text": "ты действительно счастлив",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "9dbaaae8-fba3-4998-b41c-2827641dc73e",
+    "data": [
+      {
+        "text": "такой счастливый",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "7d8fe5ef-d98e-47ad-86bb-0f76716cb9c0",
+    "data": [
+      {
+        "text": "счастливчик",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d2cdcd4d-0c95-4841-89bd-bbf9e3c9e4bb",
+    "data": [
+      {
+        "text": "ты невероятно счастлива",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "58c8274f-8844-4860-973f-a6bd5ee9ac59",
+    "data": [
+      {
+        "text": "ты счастлив теперь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5853047e-984d-414a-8bfc-10c770402668",
+    "data": [
+      {
+        "text": "сегодня ты счастлива",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b2565661-4939-4b2a-9516-44641919b0cd",
+    "data": [
+      {
+        "text": "ты счастлива со мной",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

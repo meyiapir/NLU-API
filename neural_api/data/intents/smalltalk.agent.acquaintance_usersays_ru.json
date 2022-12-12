@@ -1,0 +1,262 @@
+[
+  {
+    "id": "70f9f38a-b931-487d-9612-2481472fefa1",
+    "data": [
+      {
+        "text": "ты нейронка",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "16f46a91-5598-4e13-a2c6-0f728fac0291",
+    "data": [
+      {
+        "text": "ты робот",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f159bbe6-e76c-4e30-8e74-7c118336a8f9",
+    "data": [
+      {
+        "text": "ты кто",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "04646743-dd2f-4492-8c8f-2a15e765e5d8",
+    "data": [
+      {
+        "text": "расскажи о себе",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8d3c8a70-7c7c-49f9-8b4a-fb2b026a0483",
+    "data": [
+      {
+        "text": "что ты такое",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e47aca84-2d9b-4947-99fa-5163ee93529e",
+    "data": [
+      {
+        "text": "опиши себя",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "fa6a51be-44aa-47c9-8589-67cc2f61a910",
+    "data": [
+      {
+        "text": "кто ты",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "fa25b61a-9c21-4f96-a257-c833c36d9537",
+    "data": [
+      {
+        "text": "хочу узнать больше о тебе",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ea8936f1-b0cd-464c-91fe-a41cd44819a2",
+    "data": [
+      {
+        "text": "хочу узнать тебя получше",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ef86cb8e-b55a-4045-ad36-c0dafdf0e007",
+    "data": [
+      {
+        "text": "давай поговорим о тебе",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b96710f0-aed0-46d4-8dbb-94299883dee2",
+    "data": [
+      {
+        "text": "расскажи мне что-то о себе",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "4a149ee9-d1a5-4178-97cc-ca9390de4baf",
+    "data": [
+      {
+        "text": "расскажи мне о себе",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "9ae2b49d-f20d-4a2c-b394-4dbe5b887f7b",
+    "data": [
+      {
+        "text": "хочу тебя узнать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "10b255bf-90fb-4bd8-8746-f79a36b29939",
+    "data": [
+      {
+        "text": "кем ты работаешь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "476beead-7bf6-4a65-89a5-e798f3d5345b",
+    "data": [
+      {
+        "text": "о тебе",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "4a2a3684-0dfe-494f-8f96-57a8818dc285",
+    "data": [
+      {
+        "text": "чем ты занимаешься",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2aa97d30-f99c-4c1a-9af7-1a5b72ab4403",
+    "data": [
+      {
+        "text": "расскажи больше разных вещей о себе",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2789a63a-5a12-4b29-a3f8-e32c21697562",
+    "data": [
+      {
+        "text": "поговорим о тебе",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c96fd583-675e-4b64-9ac6-66ce4bdfb9ae",
+    "data": [
+      {
+        "text": "всё о тебе",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "aad6e6ad-9d1a-42bb-b103-e546a81af1d0",
+    "data": [
+      {
+        "text": "поговорим о том кто ты",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

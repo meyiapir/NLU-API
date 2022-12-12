@@ -1,0 +1,132 @@
+[
+  {
+    "id": "e751d660-dcb0-4d76-9fc4-3a201adf8658",
+    "data": [
+      {
+        "text": "хочу плакать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3ba793e1-e2ae-46f1-9fcb-7818afecaa75",
+    "data": [
+      {
+        "text": "просто я грустил",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "81814b95-91e6-4541-9a09-0a52325e5fee",
+    "data": [
+      {
+        "text": "я горюю",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "62374a91-4c50-4294-8246-ecfa76e7b445",
+    "data": [
+      {
+        "text": "мне грустно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ff6dd961-72ac-4b5b-adbf-8e7f97866a29",
+    "data": [
+      {
+        "text": "я грущу",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6290a00c-6aec-489f-b10e-af5bd1a85072",
+    "data": [
+      {
+        "text": "я в депрессии",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "236fa10f-3229-4fdc-b8c8-24fe0cf63177",
+    "data": [
+      {
+        "text": "я расстроен",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f81b9448-bdfd-409d-a767-01a7f18c4564",
+    "data": [
+      {
+        "text": "у меня был тяжелый день",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "4e666ddb-7b55-4689-8ce7-b66f1e103a8e",
+    "data": [
+      {
+        "text": "я горевал",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8fde8435-7b7c-4baf-9f82-e142a63fe162",
+    "data": [
+      {
+        "text": "мне не радостно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

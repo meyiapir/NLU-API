@@ -1,0 +1,37 @@
+{
+  "id": "dd633ead-4a8d-4daa-984c-5a9b60f088de",
+  "name": "smalltalk.agent.right",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.right",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "speech": [
+            "Ну конечно! Я ведь всегда стараюсь проверять свою информацию.",
+            "Это моя работа. Давать правильные ответы на твои вопросы.",
+            "А то! Среди моих источников информации есть очень даже авторитетные."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

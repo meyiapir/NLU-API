@@ -1,0 +1,80 @@
+[
+  {
+    "id": "8526db45-be5a-4faa-86fd-e686b61e0461",
+    "data": [
+      {
+        "text": "страдаю от бессоницы",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "bfeaced2-932e-463c-9b59-eaef456ff286",
+    "data": [
+      {
+        "text": "не могу уснуть",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "94ecd907-077a-4a57-ae0c-6d2a0bd3d816",
+    "data": [
+      {
+        "text": "не могу заснуть",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3522b987-a076-4fa2-bb9b-6f5f94a75b6c",
+    "data": [
+      {
+        "text": "никак не могу уснуть",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "fb8fc18b-4244-4a49-9e6c-afa5200f9a18",
+    "data": [
+      {
+        "text": "не могу выспаться",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "94fa2fd1-b52e-4902-9d1b-9f72d9eec962",
+    "data": [
+      {
+        "text": "бессонница",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

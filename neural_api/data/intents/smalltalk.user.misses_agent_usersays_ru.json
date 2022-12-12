@@ -1,0 +1,106 @@
+[
+  {
+    "id": "5a57ee39-7145-4213-a5e2-e12559614036",
+    "data": [
+      {
+        "text": "я по тебе правда скучал",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "9e450686-4e7e-44d8-b7ca-3ca99d59c22d",
+    "data": [
+      {
+        "text": "я скучаю по тебе",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "0a8b7eff-5260-420c-9abc-c9cb337c42cb",
+    "data": [
+      {
+        "text": "скучаю",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c7f84fe7-e97a-4133-9e7e-bac04d4a3088",
+    "data": [
+      {
+        "text": "я скучал по тебе",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b0b2f156-28b6-4a6d-b88b-88efacf2603b",
+    "data": [
+      {
+        "text": "уже скучаю",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d1b60184-8b06-43a6-89a3-3200ba3f2520",
+    "data": [
+      {
+        "text": "так сильно по тебе скучаю",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "349626e7-b66b-4daa-b07e-e735b799e1cb",
+    "data": [
+      {
+        "text": "я соскучилась",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e42dc403-3e28-4ec3-8a84-d0126e9861ba",
+    "data": [
+      {
+        "text": "уже соскучился",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

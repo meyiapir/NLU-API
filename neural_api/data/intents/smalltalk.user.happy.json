@@ -1,0 +1,38 @@
+{
+  "id": "ba2d33f9-722d-4a30-9653-45db06039d04",
+  "name": "smalltalk.user.happy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.happy",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "speech": [
+            "Вот здорово! Приятно это слышать!",
+            "Это замечательно! Очень приятно видеть тебя в таком хорошем настроении.",
+            "Это прекрасно! И, похоже, заразно, у меня тоже сразу улучшилось настроение!",
+            "Отлично! Так держать!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

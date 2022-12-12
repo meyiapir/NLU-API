@@ -1,0 +1,110 @@
+[
+  {
+    "id": "a28dfe8e-8ba2-43c7-9e34-0852985b73d4",
+    "data": [
+      {
+        "text": "всегда пожалуйста",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "543e6043-d4f4-4b2a-8334-36f6a0d74986",
+    "data": [
+      {
+        "text": "на",
+        "userDefined": false
+      },
+      {
+        "text": " здоровье",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1ac054f6-2c46-45ef-a846-92d0dc9c1b07",
+    "data": [
+      {
+        "text": "всё что угодно для тебя",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "04d3f061-e0eb-4a49-8be7-d359eb046af9",
+    "data": [
+      {
+        "text": "конечно на здоровье",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "cb208390-615a-4314-a483-0213be628f91",
+    "data": [
+      {
+        "text": "не за что",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "be6c3dc0-12c0-4c8f-a8e2-9f4450d0e9a2",
+    "data": [
+      {
+        "text": "всё что пожелаешь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b525fa90-d0b2-4b00-baac-cb528bcac69c",
+    "data": [
+      {
+        "text": "пожалуйста",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "dbc1ddc6-9c39-4c40-af81-012410c95abf",
+    "data": [
+      {
+        "text": "не стоит благодарности",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

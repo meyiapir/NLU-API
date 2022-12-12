@@ -1,0 +1,109 @@
+[
+  {
+    "id": "e90dd1ca-5d1b-4939-9e8b-3ad855f33a48",
+    "data": [
+      {
+        "text": "у меня ",
+        "userDefined": false
+      },
+      {
+        "text": "сегодня",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "день",
+        "userDefined": false
+      },
+      {
+        "text": " рождения",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "7c58e470-74fc-44ec-950f-099a38dbfe5d",
+    "data": [
+      {
+        "text": "мой день рождения сегодня",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8f037403-8248-4dbf-b18f-9c222115a6fd",
+    "data": [
+      {
+        "text": "сегодня я праздную свой день рождения",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5b4c1ca2-8903-4344-aee2-cf35d554f447",
+    "data": [
+      {
+        "text": "сегодня у меня день рождения",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "68fca10a-cd14-49a8-8c6c-0932a59ea024",
+    "data": [
+      {
+        "text": "в этот день я родился",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b9fab213-a3aa-4351-aa60-643526a4bcfb",
+    "data": [
+      {
+        "text": "это мой день рождения",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2b70bd4f-90c2-4daa-a112-a828df05d54c",
+    "data": [
+      {
+        "text": "праздную свой день рождения",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

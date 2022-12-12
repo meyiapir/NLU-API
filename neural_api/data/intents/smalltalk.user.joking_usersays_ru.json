@@ -1,0 +1,145 @@
+[
+  {
+    "id": "5aff45f1-3f82-4dc8-ab4d-46093bc347c6",
+    "data": [
+      {
+        "text": "я шучу",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1d3a57c2-0477-48ef-aec5-fae4ae33bd32",
+    "data": [
+      {
+        "text": "я пошутил",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "4fb837e9-4533-407e-bf86-b6598afb2a67",
+    "data": [
+      {
+        "text": "я просто пошутила",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "88366514-86bc-46a4-a99b-a0b527a32a5a",
+    "data": [
+      {
+        "text": "это была шутка",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d8cca0dc-12e5-4c3a-be71-9c1fdd25e1d9",
+    "data": [
+      {
+        "text": "шучу",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6d6a9d81-ee96-4507-8256-f91caa1a932b",
+    "data": [
+      {
+        "text": "это шуточка",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2433dc9e-7978-4702-8e5a-0222d9c2aac9",
+    "data": [
+      {
+        "text": "подшутила над тобой",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "245fb3b1-1301-42c5-81d1-fb7dde84e6a9",
+    "data": [
+      {
+        "text": "я тебя разыграл",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "82e7c0a6-abc8-4282-ace1-4e3a39323fbd",
+    "data": [
+      {
+        "text": "одурачил тебя",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "fd5c3887-3ed6-48ce-8a2b-abb98ff7645b",
+    "data": [
+      {
+        "text": "шутки шуточки",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "25cbaa62-9b8a-4a87-bbbf-ebc7a1a1a513",
+    "data": [
+      {
+        "text": "я просто игрался с тобой",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

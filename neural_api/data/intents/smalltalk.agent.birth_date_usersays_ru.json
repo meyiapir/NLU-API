@@ -1,0 +1,106 @@
+[
+  {
+    "id": "7386fc4c-c060-4643-acce-84ac608c9dae",
+    "data": [
+      {
+        "text": "когда ты родилась",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "034b85b6-74a5-403c-b738-ee3a084be86f",
+    "data": [
+      {
+        "text": "твоя дата рождения",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "9c271756-d454-46b9-a7ed-97867c8f4a75",
+    "data": [
+      {
+        "text": "когда твой день рождения",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "66526db2-d2d1-46d0-9989-db120771a2d6",
+    "data": [
+      {
+        "text": "когда ты празднуешь свой день рождения",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8a484cfd-89f5-461d-8777-083e23ad80bb",
+    "data": [
+      {
+        "text": "когда у тебя день рождения",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6108affa-fbf5-473a-bc9f-44a08cfff6ac",
+    "data": [
+      {
+        "text": "дата твоего рождения",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8d15e422-917e-428c-9305-53edbd52f43f",
+    "data": [
+      {
+        "text": "когда ты родился",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "23c3c985-16f0-4fec-82c0-71ec23bef701",
+    "data": [
+      {
+        "text": "твой день рождения",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

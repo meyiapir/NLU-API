@@ -1,0 +1,210 @@
+[
+  {
+    "id": "a111f729-1bf6-416b-8075-ca39a24700fa",
+    "data": [
+      {
+        "text": "ты занят",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "eec37e5c-d3be-4ee6-a01b-e1ebe14fbce6",
+    "data": [
+      {
+        "text": "тебе нужно многое сделать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c1f8ae26-8229-4ce6-a933-3806bf140cfd",
+    "data": [
+      {
+        "text": "тебе нужно поработать не так ли",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6388cecc-1739-45ff-8043-1a6554f1addc",
+    "data": [
+      {
+        "text": "ты очень занят да",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b5e707a3-4875-4d65-8c8a-af633d5b9d26",
+    "data": [
+      {
+        "text": "занят ли ты сейчас",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "bc689a89-10c4-4593-b806-41eb818f67a4",
+    "data": [
+      {
+        "text": "ты очень занят правда",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "93e74108-93e6-4e5e-b989-e010a98d81c6",
+    "data": [
+      {
+        "text": "ты работаешь да",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "748be71e-05b7-42ba-8e1f-b4a8de3c9494",
+    "data": [
+      {
+        "text": "насколько ты занят",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2a3fef2e-2bff-4a05-a3af-3e141fbf37a1",
+    "data": [
+      {
+        "text": "ты всё ещё работаешь над этим",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "46d9cdaf-182c-47af-9096-d65023e52260",
+    "data": [
+      {
+        "text": "ты работаешь сейчас",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a02500d2-1c84-4f9f-bd33-9d74d55b042a",
+    "data": [
+      {
+        "text": "сегодня ты занят не так ли",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "cf534c21-fcb7-48fd-a91c-ff47bae6c266",
+    "data": [
+      {
+        "text": "правда что ты был занят всё это время",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "75ac1b1c-1f7e-4323-bcc0-4e18a3311b67",
+    "data": [
+      {
+        "text": "ты занята сейчас да",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a170403d-e3f3-488b-95ac-e85c02bec1f5",
+    "data": [
+      {
+        "text": "ты всё ещё работаешь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c1f3234a-c6da-4067-b092-2e0a1717b168",
+    "data": [
+      {
+        "text": "кажется ты занят",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "bcb11bad-cfb3-47ab-a0fd-e66eb02ee43e",
+    "data": [
+      {
+        "text": "мне кажется ты очень занята",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

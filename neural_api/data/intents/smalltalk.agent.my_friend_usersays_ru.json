@@ -1,0 +1,366 @@
+[
+  {
+    "id": "b31db780-6e3d-49e8-8117-adfada7ad59c",
+    "data": [
+      {
+        "text": "хочу друга как ты",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6db5d819-25cf-4dc2-bcbd-47bfac649c46",
+    "data": [
+      {
+        "text": "мы лучшие друзья",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6c667673-4745-4de0-a565-85c29cb3f127",
+    "data": [
+      {
+        "text": "мы друзья правда",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "7ed86e9a-03aa-49ae-903d-5511c3e58091",
+    "data": [
+      {
+        "text": "хочу быть твои другом",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "fd3f7e52-cd41-4b13-81b4-91d1b9044b43",
+    "data": [
+      {
+        "text": "я твой друг",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c7d573d5-0bc6-49a3-8a39-cb5d4bc781f3",
+    "data": [
+      {
+        "text": "мы теперь лучшие друзья",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a0c825ef-122f-4f6a-b329-0ea779511a82",
+    "data": [
+      {
+        "text": "ты мой друг",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "df436798-68ae-4d17-8547-6a0fb6964d3e",
+    "data": [
+      {
+        "text": "ты мой лучший друг",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c1dfe44a-f2b0-4823-915f-b5d9bfdc2139",
+    "data": [
+      {
+        "text": "ты дорогой мне друг",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "49890a02-bbb0-4b39-b0ad-1f141725db7a",
+    "data": [
+      {
+        "text": "ты мой друг детства",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b1f0c9dc-761b-4ea0-b3b3-41e961d8a825",
+    "data": [
+      {
+        "text": "ты и я теперь друзья",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "91b65bf5-ddbe-49f7-aa4e-b1dd1d904ece",
+    "data": [
+      {
+        "text": "мы ведь друзья",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "56a452a0-8fe7-4d21-8ce5-9b022a0a2f77",
+    "data": [
+      {
+        "text": "мы ведь ещё друзья",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d25b3f09-669f-4a13-a56c-d839189768bb",
+    "data": [
+      {
+        "text": "ты мой лучший друг так ведь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "26ca5161-6585-42ef-acca-764bbc23c26c",
+    "data": [
+      {
+        "text": "будешь моей подругой",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a5f75f2b-a58a-4208-956c-f65729563b49",
+    "data": [
+      {
+        "text": "ты мой хороший друг",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "69702fc0-a7c2-4f2f-96f8-5cc5624c610f",
+    "data": [
+      {
+        "text": "ты мой единственный друг",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "4ed859c8-ac6b-4aee-a6e2-a5c0438888a2",
+    "data": [
+      {
+        "text": "будь моим другом",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1ddb38b4-f97c-4624-83b6-016ff43f82fb",
+    "data": [
+      {
+        "text": "будешь моим другом",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "dbb47c68-86ac-4f22-a86a-6255639f20df",
+    "data": [
+      {
+        "text": "может будем друзьями",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a3f71095-85e6-4f89-b4b7-44fd75dcd529",
+    "data": [
+      {
+        "text": "мы можем остаться друзьями",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "0ef9c6eb-8c4a-4d6a-a1f8-de0d52f48f0a",
+    "data": [
+      {
+        "text": "хочешь быть моим другом",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3608fa6a-d6a8-4409-bc9d-9ec9ef3c30c9",
+    "data": [
+      {
+        "text": "будешь моим лучшим другом",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "fdec8369-58b9-45e4-89e6-1722de2a9fd8",
+    "data": [
+      {
+        "text": "будем друзьями",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5692c491-4197-40b4-baec-2812ca11952a",
+    "data": [
+      {
+        "text": "хотел бы ты дружить со мной",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "15c1869b-21b2-45ca-b163-b115da4f7cbc",
+    "data": [
+      {
+        "text": "станем лучшими друзьями",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c4a76c44-72a8-4cb9-8ccf-bbf5515f53ba",
+    "data": [
+      {
+        "text": "ты стал бы дружить со мной",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "48fa08ae-5544-4534-af79-4f707c6582c0",
+    "data": [
+      {
+        "text": "стала бы моей лучшей подругой",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

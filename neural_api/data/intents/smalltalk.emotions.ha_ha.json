@@ -1,0 +1,38 @@
+{
+  "id": "5d394683-b7e5-4b44-9ee3-4e823c2adce8",
+  "name": "smalltalk.emotions.ha_ha",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.emotions.ha_ha",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "speech": [
+            "Ха! Смешно!",
+            "Кто это у нас тут так широко улыбается?",
+            "Посмейся, посмейся, это полезно.",
+            "Я тоже люблю посмеяться над хорошей шуткой."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

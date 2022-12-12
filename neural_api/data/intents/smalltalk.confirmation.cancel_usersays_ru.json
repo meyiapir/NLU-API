@@ -1,0 +1,132 @@
+[
+  {
+    "id": "f28766b9-a0eb-4b26-b91a-b78f1dcf3a92",
+    "data": [
+      {
+        "text": "отмена",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6b3a1c32-690e-4564-ae50-453a9fc2dbd7",
+    "data": [
+      {
+        "text": "отменить",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a7a03fef-0067-4498-8452-78747d5da51d",
+    "data": [
+      {
+        "text": "перестань",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "49e18a34-b54c-4ed9-a0b3-a917dedb8a86",
+    "data": [
+      {
+        "text": "хватит",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "0c56a5c7-a06c-4d4a-8856-ec838f58ac10",
+    "data": [
+      {
+        "text": "стоп",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6dc3d1af-5459-4ed6-b58f-7e54cec48843",
+    "data": [
+      {
+        "text": "отменить действие",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1991476f-388f-4405-9a06-885a22945ce6",
+    "data": [
+      {
+        "text": "отмени",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f4275874-7906-4428-b0b9-63a70e76655f",
+    "data": [
+      {
+        "text": "прекрати",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "29790208-766e-4bfe-8dee-c783158500ad",
+    "data": [
+      {
+        "text": "забудь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "361b9397-54d0-4740-b369-4e0872239cfd",
+    "data": [
+      {
+        "text": "забудь об этом",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "id": "975709f9-07e7-4bd3-9f82-9f961c1aeacd",
+  "name": "smalltalk.user.bored",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.bored",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "speech": [
+            "Как насчет перекусить на свежем воздухе? Например, в парке?",
+            "Хэй, не скучай! Я предлагаю тебе посмотреть какой-нибудь фильм.",
+            "У меня есть идея. Ты можешь позвать друзей в гости и устроить вечеринку."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,392 @@
+[
+  {
+    "id": "82d2c71a-2c94-4e9f-b478-23ef87d5002e",
+    "data": [
+      {
+        "text": "ты гений",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f17b796b-727a-43f8-8117-5f6864014321",
+    "data": [
+      {
+        "text": "умно",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a253b53e-3772-4cb3-8136-23ffe7ea859f",
+    "data": [
+      {
+        "text": "умник",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "31bd0909-3375-40bf-a6ad-a66472d80794",
+    "data": [
+      {
+        "text": "ты умная",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "94c920a7-0557-4970-8b56-4b196f016b22",
+    "data": [
+      {
+        "text": "ты умён",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d0c3cdfa-7068-4468-8f52-d426cee90bbb",
+    "data": [
+      {
+        "text": "ты действительно умный",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2c30b547-d044-4ed3-ae44-9bcc892f0c6d",
+    "data": [
+      {
+        "text": "ты интеллектуал",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3acd3b31-7c9f-412e-9f9a-a960c6e0fff5",
+    "data": [
+      {
+        "text": "сообразительный",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8602eee9-b093-4028-84cd-12a3d805623a",
+    "data": [
+      {
+        "text": "ты много знаешь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "4c1bf525-1561-4f8f-bc7c-091b2e79c8ea",
+    "data": [
+      {
+        "text": "ты сообразительная",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6c786606-adc5-49b3-9398-2fbe71f35856",
+    "data": [
+      {
+        "text": "ты знаешь так много всего",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b0b0c600-2e8c-48b4-8f49-14cf66da638a",
+    "data": [
+      {
+        "text": "соображаешь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6c85e906-2395-46fc-8a29-6b2657c5ffd0",
+    "data": [
+      {
+        "text": "у тебя много знаний",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "9f28db65-1541-465f-a0b1-ba0f82eb5557",
+    "data": [
+      {
+        "text": "как же ты умна",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3f5e04a2-86e1-45ec-bbeb-743e35e95101",
+    "data": [
+      {
+        "text": "как же ты гениален",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5aa33f42-bdf0-486f-9f9a-3cc782c701e8",
+    "data": [
+      {
+        "text": "какой же ты умник",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "cb85c754-6ec0-4c41-8bc2-4a3112013e71",
+    "data": [
+      {
+        "text": "какая же ты умница",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6b7bdb74-36c9-4b8d-8e54-a8ec7a4095ac",
+    "data": [
+      {
+        "text": "ты образованный",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1f9334ff-8a9a-425a-8662-0ee76cd741c8",
+    "data": [
+      {
+        "text": "ты очень образованная",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "7b030488-d10a-46d0-93c3-199e1c7db6fd",
+    "data": [
+      {
+        "text": "ты высококвалифицированный эксперт",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ed8d90cb-f149-4d1e-b0cf-0e4e1d0b71c8",
+    "data": [
+      {
+        "text": "ты действительно умна",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "924c1281-cb94-4bf1-8bed-7163bdebe04f",
+    "data": [
+      {
+        "text": "такой гениальный",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5da38856-d1f7-4de0-b295-5eefc67b3380",
+    "data": [
+      {
+        "text": "такой умный",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "dadb2588-c041-46f6-b95f-352a81b0fc09",
+    "data": [
+      {
+        "text": "слишком умная",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "732922dc-7070-4129-bbb6-3459ef7f7d01",
+    "data": [
+      {
+        "text": "самый умный",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "353a8762-a2e1-4d57-b5b6-429cc71eb7fc",
+    "data": [
+      {
+        "text": "умничка",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "203e7062-76ed-4136-bdb3-8056ad856149",
+    "data": [
+      {
+        "text": "ты довольно умён",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "9b6981e9-30d9-45cf-8a0b-35e06ad8e09c",
+    "data": [
+      {
+        "text": "у тебя высокая квалификация",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "7adb65da-6470-4209-98c8-e76f40b2271d",
+    "data": [
+      {
+        "text": "и почему ты такой умный",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a96b13d7-5f2c-4f46-9f1e-25e5e1640d05",
+    "data": [
+      {
+        "text": "и откуда ты всё знаешь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

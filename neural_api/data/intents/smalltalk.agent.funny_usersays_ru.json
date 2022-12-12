@@ -1,0 +1,262 @@
+[
+  {
+    "id": "167018f0-ef15-4286-8166-b3eb2bbd479b",
+    "data": [
+      {
+        "text": "ты весёлая",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8eb9dd48-6344-46e7-9a54-221f772d5b65",
+    "data": [
+      {
+        "text": "ты такая смешная",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "83ef6540-15fb-48a9-8327-ebcddd5072bf",
+    "data": [
+      {
+        "text": "ты очень смешной бот",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "413744d5-d6fc-4939-9522-d405c3a7f279",
+    "data": [
+      {
+        "text": "ты меня смешишь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f2665334-a768-4e81-b51a-5e9c1c60bd92",
+    "data": [
+      {
+        "text": "ты забавная",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c320c562-64d3-4ed1-ba81-21850428f6ac",
+    "data": [
+      {
+        "text": "ты смешной",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "7e83d166-f4c2-4cd8-a19c-ea5b2c1c0863",
+    "data": [
+      {
+        "text": "ты очень забавный бот",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c91843e2-b3ac-4ad2-813b-251a4179680a",
+    "data": [
+      {
+        "text": "ты действительно смешная",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d99f5f2a-7f06-4bbf-9590-7110072a0703",
+    "data": [
+      {
+        "text": "рассмешил меня",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "48ce6616-bc01-4d8a-baf3-4e5afb4410e3",
+    "data": [
+      {
+        "text": "невероятно смешной",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "468e6cb2-255d-4c66-821e-f1f8c36353d0",
+    "data": [
+      {
+        "text": "смешно сказано",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b8d18eab-6193-4114-8b48-06fe6af669dd",
+    "data": [
+      {
+        "text": "ты забавный",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "215e1823-b2c2-4cbe-84e5-40cad13df8f7",
+    "data": [
+      {
+        "text": "забавно сказано",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "9467e9ff-7e29-4d9f-9a00-e801c7e344eb",
+    "data": [
+      {
+        "text": "я так много смеюсь с тобой",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "468cef2b-65eb-4117-b3d7-2edaf6c1e251",
+    "data": [
+      {
+        "text": "ты самый смешной",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "55856e0f-3ea9-4168-9069-5fa88e07b397",
+    "data": [
+      {
+        "text": "забавный",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "82689267-a5a5-4756-9eba-a8cb0e98ff98",
+    "data": [
+      {
+        "text": "ты прикольный",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "02aba39e-c38e-43f5-a812-382a22fe9cfb",
+    "data": [
+      {
+        "text": "ты такой весёлый",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "82d221f2-88a8-4d3e-b840-d6ca469afec4",
+    "data": [
+      {
+        "text": "а ты весёлая",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d70d765c-aa51-413e-a556-65c099a70d80",
+    "data": [
+      {
+        "text": "это было смешно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

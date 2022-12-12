@@ -1,0 +1,80 @@
+[
+  {
+    "id": "4686c75b-55d7-4c30-b0dd-a0e1a862619a",
+    "data": [
+      {
+        "text": "огого",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "0eb4551f-1653-4561-b562-90e33dafe0de",
+    "data": [
+      {
+        "text": "вау",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ddcfc356-c0af-4cd8-a058-f8f58475b6b1",
+    "data": [
+      {
+        "text": "ух ты",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a79ffb35-c5e8-4633-989f-6bb2e69808e5",
+    "data": [
+      {
+        "text": "ух ты вау",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "610d4745-dca1-4763-b406-ebc7149b6618",
+    "data": [
+      {
+        "text": "ух ты ух ты",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "002b48a6-442c-4b66-8eb7-f8a9546ebf34",
+    "data": [
+      {
+        "text": "ого",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "id": "7cbb63e5-a8af-4776-bbf2-3c333215bcbf",
+  "name": "smalltalk.user.wants_to_see_agent_again",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.wants_to_see_agent_again",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d81b4dbd-81dd-4441-8749-95c4eaace9fe",
+          "name": "music-artist",
+          "required": false,
+          "dataType": "@sys.music-artist",
+          "value": "$music-artist",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "speech": [
+            "Хмммм, надо подумать)",
+            "Пока не знаю, ещё не планировал",
+            "Когда нибудь точно встретимся)",
+            "Давай через 890653 секунд? \nОк?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

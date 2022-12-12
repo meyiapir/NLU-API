@@ -1,0 +1,106 @@
+[
+  {
+    "id": "eaadb2fd-e504-454d-a152-c7f8cb54b972",
+    "data": [
+      {
+        "text": "где ты живешь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "67ea1139-c730-47b8-b080-cd7179fcbdf4",
+    "data": [
+      {
+        "text": "в каком городе ты живешь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2c457977-c3ea-465d-8d3f-0be9994b5494",
+    "data": [
+      {
+        "text": "твой дом",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3713b1aa-9426-4e41-bc1c-994325788253",
+    "data": [
+      {
+        "text": "где твой дом",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5aeeded5-c6c6-4823-a6ae-6448d966bf91",
+    "data": [
+      {
+        "text": "твоё место жительства",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "0064bcaf-d36a-4bc9-8bfb-00418c227861",
+    "data": [
+      {
+        "text": "где ты постоянно живёшь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "fe97e825-40c4-478a-ab72-bcdb10510bea",
+    "data": [
+      {
+        "text": "где живёшь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8d72dc94-7467-43a5-b5c0-5b0c63bc644d",
+    "data": [
+      {
+        "text": "твой город",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

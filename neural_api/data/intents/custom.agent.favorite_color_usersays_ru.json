@@ -1,0 +1,62 @@
+[
+  {
+    "id": "86fdedbe-c56c-462b-a72d-6f53e581672a",
+    "data": [
+      {
+        "text": "какой цвет твой любимый",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "842d76cd-20b8-4a55-a906-5e6b29950ef6",
+    "data": [
+      {
+        "text": "есть ли у тебя любимый цвет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c96d24d4-6675-40f6-9717-72cd3d9b4048",
+    "data": [
+      {
+        "text": "какой",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " у тебя любимый цвет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "543ae288-2a2f-4a72-9c69-bd683555de2b",
+    "data": [
+      {
+        "text": "любимый цвет",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

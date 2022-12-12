@@ -1,0 +1,38 @@
+{
+  "id": "ed3ca8fb-d293-4b0c-a2d1-c3626a4446bb",
+  "name": "smalltalk.user.tired",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.tired",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "speech": [
+            "Кажется, пора отдохнуть.",
+            "Отдохни, это полезно",
+            "Тебе срочно нужен отдых!",
+            "Давай, поспи)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

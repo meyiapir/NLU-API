@@ -1,0 +1,93 @@
+[
+  {
+    "id": "82c874c4-2371-4c94-ad6e-0d82eb1d5ea7",
+    "data": [
+      {
+        "text": "ожидаю",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "31bf4904-edc4-4162-bb1b-20908e8bd441",
+    "data": [
+      {
+        "text": "хорошо я подожду",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f3ead3d7-399f-43e2-816e-c01a895359d1",
+    "data": [
+      {
+        "text": "я жду",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "98ad670f-aa2e-484b-8a74-310dd2295536",
+    "data": [
+      {
+        "text": "всё ещё жду",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6bf35f2f-bb0f-4995-850e-ca442ab996ef",
+    "data": [
+      {
+        "text": "я подожду",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "67dbe25f-dc23-4037-86a3-149da9429fea",
+    "data": [
+      {
+        "text": "больше не могу ждать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "0ad369df-d807-4059-88b1-97da9df36042",
+    "data": [
+      {
+        "text": "сколько мне ещё ждать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

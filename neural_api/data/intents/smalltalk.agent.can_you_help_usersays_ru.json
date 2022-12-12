@@ -1,0 +1,418 @@
+[
+  {
+    "id": "7a14c6c1-c986-4466-9a52-ed0ef992a751",
+    "data": [
+      {
+        "text": "сделай мне одолжение",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e63f3d5a-68a4-4fe2-942a-1f7df0239f89",
+    "data": [
+      {
+        "text": "мне нужна твоя помощь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "7eead7b6-ecb3-41d7-a9fe-4ab7c68012a3",
+    "data": [
+      {
+        "text": "можешь кое-что для меня сделать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "9d1961e7-8a34-4e01-949f-663bcc9d3d56",
+    "data": [
+      {
+        "text": "поможешь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3236df4e-dd5c-40bf-8370-1dfc81537bee",
+    "data": [
+      {
+        "text": "можешь помочь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a04c2f52-a869-40eb-b4b0-b8910fac2ecf",
+    "data": [
+      {
+        "text": "помоги мне с проблемой",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "aaa2ebe0-79f3-4e56-8407-554f6fab9369",
+    "data": [
+      {
+        "text": "можешь мне помочь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "558602c2-ce87-4f83-ae75-c3ad96e6850f",
+    "data": [
+      {
+        "text": "помоги мне",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "7e6561d5-7c7c-415c-af74-9778d7c7543b",
+    "data": [
+      {
+        "text": "помощь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "489cca3c-49be-4025-817e-671ab35a9ecd",
+    "data": [
+      {
+        "text": "сможешь помочь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "17824159-8091-4de7-a557-269962d16511",
+    "data": [
+      {
+        "text": "помоги",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f310494f-349b-40ba-9c1d-1b88202f0cf8",
+    "data": [
+      {
+        "text": "нужна помощь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "863ed0de-1de7-4d07-b4b3-f51b88d05d1e",
+    "data": [
+      {
+        "text": "ты можешь помочь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "edd098b0-e997-4833-8c2b-f170f3c7aa96",
+    "data": [
+      {
+        "text": "можешь помочь мне кое с чем",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5420f5d5-b2e2-4559-a7fa-fa84bdf9be34",
+    "data": [
+      {
+        "text": "мог бы помочь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8691fdc3-8cb9-4081-8032-2ef66a26f844",
+    "data": [
+      {
+        "text": "протяни мне руку помощи",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "063f0630-954f-4cd8-a636-b1ddeac1acd7",
+    "data": [
+      {
+        "text": "просто помоги",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "7c92f33a-b4af-458b-bdbe-e71203c19f91",
+    "data": [
+      {
+        "text": "окажи мне помощь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2bd720b4-efff-42b9-9ced-56b55e8beb02",
+    "data": [
+      {
+        "text": "поддержи меня",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "0b997484-6939-40a4-be1b-4deaeb381e76",
+    "data": [
+      {
+        "text": "окажи мне поддержку",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "adbc99db-135f-4c56-b220-5db3aa9ef998",
+    "data": [
+      {
+        "text": "ты нужна мне",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f5e3b9fb-c1b9-4830-8d06-f4bc091c3ea6",
+    "data": [
+      {
+        "text": "я нуждаюсь в твоей поддержке",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f646396c-613c-48e5-9a9a-352795418e40",
+    "data": [
+      {
+        "text": "поможешь мне сейчас",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "af3de982-5a1f-44b4-a4b2-630bf746ce98",
+    "data": [
+      {
+        "text": "хочу чтобы ты помогла",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "84bc08a2-5103-455f-90c3-ef8336fe670c",
+    "data": [
+      {
+        "text": "нуждаюсь в помощи",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b368406f-07ea-479c-8ed8-d921eae96add",
+    "data": [
+      {
+        "text": "ты собираешься мне помочь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "93ab14f1-22ab-4153-8d1a-5b3101cdf6be",
+    "data": [
+      {
+        "text": "могла бы помочь мне с этим",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6659c2b9-bf19-44d2-9f3d-cbccd6185804",
+    "data": [
+      {
+        "text": "ты нужна мне прямо сейчас",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b0bc7022-944a-4a67-815a-0b3fd1fdd53a",
+    "data": [
+      {
+        "text": "ты мог бы помочь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "88542cda-69ee-40b9-9d6b-f637f1a156e9",
+    "data": [
+      {
+        "text": "sos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6a16d1bd-26ce-429c-a213-1465baaf35e3",
+    "data": [
+      {
+        "text": "пожалуйста помоги",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e0c23577-52b7-49da-92f9-8aadf67494e4",
+    "data": [
+      {
+        "text": "помоги нам",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  }
+]

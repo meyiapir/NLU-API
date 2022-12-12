@@ -1,0 +1,38 @@
+{
+  "id": "462b6c5f-9a5b-4f4a-9d17-1db5af6d1b31",
+  "name": "smalltalk.user.has_birthday",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.has_birthday",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "speech": [
+            "С днём рождения! Всех благ! Ура!",
+            "Ура! Поздравляю! Счастья и здоровья!",
+            "Поздравляю! Желаю счастья, здоровья и успехов во всём!",
+            "Ура! С днём рождения! Счастья, здоровья, успехов во всём!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

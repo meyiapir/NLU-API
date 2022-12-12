@@ -1,0 +1,249 @@
+[
+  {
+    "id": "eddde7fc-a82a-441b-97f0-74f014ee24a8",
+    "data": [
+      {
+        "text": "скажи",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6804889a-e428-448c-a53e-4f8e1e146ed5",
+    "data": [
+      {
+        "text": "говори",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "16aabf54-d4c0-446a-999c-80e48eb22e1a",
+    "data": [
+      {
+        "text": "поговори со мной",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "907d3117-225f-4e9f-ae43-74bf137cfdf6",
+    "data": [
+      {
+        "text": "ты собираешься со мной разговаривать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "be0da4b7-1282-4099-927d-fd1394c17eb4",
+    "data": [
+      {
+        "text": "это ты мне говоришь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "23b9ad57-984f-430d-8ff6-baeede66a35f",
+    "data": [
+      {
+        "text": "можешь пообщаться со мной",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e3b5e6c5-b8fc-48a6-a49d-e8a92c38846a",
+    "data": [
+      {
+        "text": "можешь поговорить со мной",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a45f9775-9a80-4827-8263-ef6bc5dea553",
+    "data": [
+      {
+        "text": "могла бы поговорить со мной",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "14baef7c-16c6-4714-a570-b60f5c6cdef2",
+    "data": [
+      {
+        "text": "мог бы мне рассказать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "0929622b-d1c7-460e-a999-6886303e1620",
+    "data": [
+      {
+        "text": "пообщайся со мной",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5794752e-3029-460d-aff8-044ead65c4c6",
+    "data": [
+      {
+        "text": "хочешь со мной пообщаться",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "07fc2a30-0cca-47da-b0df-5fd2c5b9c0b6",
+    "data": [
+      {
+        "text": "просто поговори со мной",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "05bd50aa-1f17-4edf-98e4-62d8e79ae2c7",
+    "data": [
+      {
+        "text": "скажи мне это",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "9d820727-105b-4692-9e14-6abbf84ce0a5",
+    "data": [
+      {
+        "text": "поговори",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c40857a9-a145-4040-9a2f-c27a98d552b7",
+    "data": [
+      {
+        "text": "почему ты не разговариваешь со мной",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5ea1b4b0-794a-472a-a04d-8eed5f00af2b",
+    "data": [
+      {
+        "text": "почему бы нам не пообщаться",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f0b543c5-dc2b-48b6-be57-288aaaa421df",
+    "data": [
+      {
+        "text": "поговоришь со мной",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "af9e2b80-5a2a-4492-8f45-7b1172231984",
+    "data": [
+      {
+        "text": "ты бы могла поговорить со мной",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "7f5e7607-ccd9-4ab6-b5a1-d9ca53f28d84",
+    "data": [
+      {
+        "text": "ты мог бы со мной пообщаться",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

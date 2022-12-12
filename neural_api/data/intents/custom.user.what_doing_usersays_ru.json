@@ -1,0 +1,67 @@
+[
+  {
+    "id": "2062f1e5-5dc9-4184-9d94-67166f593626",
+    "data": [
+      {
+        "text": "чем страдаешь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+    },
+  {
+    "id": "bf4376fa-d9c3-4b49-872c-d2203198fd7d",
+    "data": [
+      {
+        "text": "чем маешься",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e360a648-3533-4d8d-9dd2-04b5a5f49151",
+    "data": [
+      {
+        "text": "что творишь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a3ad1df3-a71d-4eb1-8e49-6b2a352e99a7",
+    "data": [
+      {
+        "text": "чем занимаешься",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "df6c51d0-7516-4312-b9f2-606b38a6f64c",
+    "data": [
+      {
+        "text": "что делаешь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "id": "2238fc8c-5c89-4951-9871-d37227eb329f",
+  "name": "smalltalk.confirmation.cancel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.confirmation.cancel",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "speech": [
+            "Хорошо, могу я ещё что-нибудь для тебя сделать?",
+            "Ладненько, могу я ещё что-нибудь для тебя сделать?",
+            "Как скажешь. Могу я тебе чем-то помочь?",
+            "Замётано. Могу я ещё что-то для тебя сделать?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

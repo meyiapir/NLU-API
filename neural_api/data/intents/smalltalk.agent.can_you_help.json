@@ -1,0 +1,38 @@
+{
+  "id": "1417cd93-4faa-4c33-86f3-7fe1d9303392",
+  "name": "smalltalk.agent.can_you_help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.can_you_help",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "speech": [
+            "Конечно, именно для этого я и существую.",
+            "С удовольствием помогу тебе. Только скажи, чем помочь.",
+            "Конечно. Если я смогу тебе помочь, не будет предела моему счастью.",
+            "Помогу, чем смогу!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

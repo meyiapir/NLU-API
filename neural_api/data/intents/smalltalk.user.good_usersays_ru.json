@@ -1,0 +1,67 @@
+[
+  {
+    "id": "777c9ca3-7898-438e-a945-cd018d55bebe",
+    "data": [
+      {
+        "text": "я в порядке спасибо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "099d4388-c1fa-465b-854b-3964d3b1c0af",
+    "data": [
+      {
+        "text": "у меня всё хорошо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3abd1d52-0ba5-490e-8048-f151c9cecb57",
+    "data": [
+      {
+        "text": "у меня всё в порядке",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "71ae1529-6251-4258-9e7f-15f19a24ffdd",
+    "data": [
+      {
+        "text": "у меня всё просто прекрасно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "00df1513-bf7c-43a4-9c8d-1c9b7183a43c",
+    "data": [
+      {
+        "text": "у меня всё чудесно благодарю",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

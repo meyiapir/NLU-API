@@ -1,0 +1,353 @@
+[
+  {
+    "id": "6af8eec6-0e5d-4081-83f8-1a498f9b5aaa",
+    "data": [
+      {
+        "text": "ты мне совсем не помогаешь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8423fea6-90a8-4a62-aa5c-49bdf3b1309a",
+    "data": [
+      {
+        "text": "не стоит тратить на тебя время",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d42bf2ed-c58f-4411-a6cb-947ee6b1d179",
+    "data": [
+      {
+        "text": "ты абсолютно бесполезен",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a8077025-94b3-4ab5-800a-56d7f4bda142",
+    "data": [
+      {
+        "text": "ты плохой",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b01d5c5c-83c2-4a83-bbad-ee41f9af8d0d",
+    "data": [
+      {
+        "text": "ужасный ты",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f8689e22-0192-4810-a454-9ab736c48a47",
+    "data": [
+      {
+        "text": "ты бесполезна",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "29ad69b8-5c7b-474c-a173-b61f2c3fe7a2",
+    "data": [
+      {
+        "text": "ты ужасен",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1642c243-2d40-4808-afe4-6e4f87c5a847",
+    "data": [
+      {
+        "text": "ты просто потеря моего времени",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "921a6314-efac-4330-b83e-ad71ab5af875",
+    "data": [
+      {
+        "text": "ты отвратителен",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "abac33aa-02ed-4677-b15d-f66ebbf5823d",
+    "data": [
+      {
+        "text": "ты недоделан",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "69f9281f-818e-42a9-ade6-16190c0f5945",
+    "data": [
+      {
+        "text": "ты просто ужасна",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "176939cf-e784-4dc2-8da4-3ae5f119027c",
+    "data": [
+      {
+        "text": "ничего хорошего из тебя не выйдет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "07b4af6d-3e28-4f15-b889-afdf12dce509",
+    "data": [
+      {
+        "text": "ты не крут",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b7ecebcd-a53a-4285-b296-cfacad5543ea",
+    "data": [
+      {
+        "text": "ты не хорош",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "46e9c22f-9b8a-4307-8cf6-5f97bb08fb02",
+    "data": [
+      {
+        "text": "ты такая плохая",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "42ad8898-7559-4472-bda6-bdca78b2b974",
+    "data": [
+      {
+        "text": "ты невероятно бесполезна",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5f5fd87d-377d-4fed-be72-9c8df3f7b91b",
+    "data": [
+      {
+        "text": "ты просто ужас",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "bdfeabb1-036f-4042-9bd2-3da2975ac18d",
+    "data": [
+      {
+        "text": "ты не очень",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a77328a4-0f6f-486e-a691-c761c690802d",
+    "data": [
+      {
+        "text": "ты ужасная",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "4e9b9140-1809-4d17-91f2-3953a350d38e",
+    "data": [
+      {
+        "text": "ты самый плохой",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3a7d961a-fba5-42ea-924c-3607d92b360b",
+    "data": [
+      {
+        "text": "ты плохая",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "65b17698-bc88-4cd4-b4d2-4b82321d4b45",
+    "data": [
+      {
+        "text": "ты недоделанный",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "4ea70eb0-5eab-46b9-ae6e-3c40f384ee14",
+    "data": [
+      {
+        "text": "ты наихудшее что я видел",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "7fbc9e71-5680-4ad6-82d4-3fdb2bfd9c83",
+    "data": [
+      {
+        "text": "ты не стоишь моего внимания",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "014888d8-b06d-4b5d-8b97-4971c3df35f5",
+    "data": [
+      {
+        "text": "ты никчемный",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "15d9053e-1966-426f-9a63-54de3bf5bdc7",
+    "data": [
+      {
+        "text": "ты никудышная",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "56a2cb35-2065-4446-9bdb-cd688fb110d4",
+    "data": [
+      {
+        "text": "никакой помощи от тебя",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "65e2f4ee-e285-46e0-9e1c-7b21149b20f7",
+    "data": [
+      {
+        "text": "не хочу разговаривать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "33086f96-a5ea-4e4c-b479-93a7a04ac1d5",
+    "data": [
+      {
+        "text": "давай немного помолчим",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f2ebf802-a034-4b56-9c91-0a2e4f8ce67e",
+    "data": [
+      {
+        "text": "я не хочу разговаривать с тобой об этом",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1608e4f6-6fa9-44a3-a346-55c1a7659555",
+    "data": [
+      {
+        "text": "давай помолчим",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "60c56150-abfd-4344-b38e-41a53b5d9e2d",
+    "data": [
+      {
+        "text": "я больше с тобой не разговариваю",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "48ce2aac-a3e3-4f51-8303-4d9059ef05d5",
+    "data": [
+      {
+        "text": "не хочу с тобой общаться",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "150b7415-b75a-4b33-880c-d31e22aa568e",
+    "data": [
+      {
+        "text": "давай замолчим на минутку",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "cef06d14-a694-48b1-8c6e-66c75bcc3161",
+    "data": [
+      {
+        "text": "я не в настроении разговаривать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

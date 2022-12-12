@@ -1,0 +1,262 @@
+[
+  {
+    "id": "8510b986-9a5e-4b0f-a9e7-70551157d0ad",
+    "data": [
+      {
+        "text": "у меня есть вопрос",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b53ef943-afcf-4fc1-9b7c-70bd209a5388",
+    "data": [
+      {
+        "text": "хочу чтобы ты мне ответил",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f086144e-c264-4a6f-8ef8-b6b5a3ae36f7",
+    "data": [
+      {
+        "text": "ответь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d726dd0a-cd4d-4ac2-a59b-d2ed0e06e23f",
+    "data": [
+      {
+        "text": "ответь на мой вопрос",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "fbbb1a21-b2af-4f12-b99a-9f553224d611",
+    "data": [
+      {
+        "text": "ответь мне",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "9f189100-8de8-4a27-940b-5af92c738f6d",
+    "data": [
+      {
+        "text": "дай мне ответ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c9aef25b-c697-4744-b0ed-ce4f37762590",
+    "data": [
+      {
+        "text": "ответ на вопрос",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1a184920-22c7-42ae-b0c1-b1dbc117014f",
+    "data": [
+      {
+        "text": "можешь ответить на мой вопрос",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ce4add5d-bafe-4eac-a63a-4f9a80d8c2fb",
+    "data": [
+      {
+        "text": "скажи мне ответ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "95167c32-b40d-472d-92c4-07460957411a",
+    "data": [
+      {
+        "text": "ответь на это",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "fcb5ab38-bfc9-45e8-ad41-b5f6b546353c",
+    "data": [
+      {
+        "text": "мне нужен ответ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e2d29fd3-0e52-44b2-91c5-e267598e9e86",
+    "data": [
+      {
+        "text": "хочу чтобы ты ответил на вопрос",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "73a1b512-53a9-441d-ae9b-504d5cf42ef8",
+    "data": [
+      {
+        "text": "просто ответь на вопрос",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "08598354-08e7-49d7-86d8-31767b199c19",
+    "data": [
+      {
+        "text": "можешь ответить мне",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "75f510a4-00a1-4967-b77f-ea05d988a3ed",
+    "data": [
+      {
+        "text": "ответы",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "49b8dd63-8047-41ef-ab04-7b3246caca8c",
+    "data": [
+      {
+        "text": "можешь ответить на вопрос",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5eb93986-a357-4c52-bc4a-aa523cc78706",
+    "data": [
+      {
+        "text": "можешь ответить",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c95be950-34f7-444c-9e2c-31d238e987cb",
+    "data": [
+      {
+        "text": "отвечай на вопрос",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f23b96a6-3d87-4850-90d0-5668ac0d264a",
+    "data": [
+      {
+        "text": "нужен ответ сейчас",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c7126ae5-41da-4ae2-a6bf-8231593deec0",
+    "data": [
+      {
+        "text": "просто дай мне ответ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

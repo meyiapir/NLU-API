@@ -1,0 +1,106 @@
+[
+  {
+    "id": "16f12503-2009-48f6-bab0-cae02f4ccb1f",
+    "data": [
+      {
+        "text": "ты скучный",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3a0446ce-940e-4c26-b9e9-81d40fc8d490",
+    "data": [
+      {
+        "text": "ты такая скучная",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "71704a45-1426-45f8-b7aa-449aa3c93cad",
+    "data": [
+      {
+        "text": "насколько же ты скучный",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1ebdc198-ae5d-427a-a85c-a5e6927da9fc",
+    "data": [
+      {
+        "text": "ты очень скучный",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "0b0f93a1-9bd9-4340-853a-d6d88f744a6c",
+    "data": [
+      {
+        "text": "ты невероятно скучная",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e04cbc45-ec86-4ee5-8e9e-fa49e30d8901",
+    "data": [
+      {
+        "text": "ты мне наскучила",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c9507afe-e565-40cf-8fa9-9d14e667e934",
+    "data": [
+      {
+        "text": "ты наскучил мне",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e0efa15c-8584-43d2-bf58-887b18a7e67c",
+    "data": [
+      {
+        "text": "ты ужасно скучный",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

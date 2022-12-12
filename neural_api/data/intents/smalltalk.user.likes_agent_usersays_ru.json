@@ -1,0 +1,457 @@
+[
+  {
+    "id": "ee640584-ff4f-4c00-87ec-cd743ca9f05f",
+    "data": [
+      {
+        "text": "ты мне нравишься",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6303a963-1c58-4b00-a434-3619573155c8",
+    "data": [
+      {
+        "text": "очень ты мне нравишься",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "401a7392-85d5-471b-ba50-a1118adc8b17",
+    "data": [
+      {
+        "text": "думаю ты нравишься мне",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1a6863ad-ca03-45f4-a4e1-51546faf47cf",
+    "data": [
+      {
+        "text": "ты понравился мне",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "099cd248-9291-4ea2-8659-ed273fb9f9e6",
+    "data": [
+      {
+        "text": "ты очень мне понравилась",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "71d20616-5b1e-498d-8a94-9e2d31393fd2",
+    "data": [
+      {
+        "text": "ты особенная",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6c352d7a-d713-4e21-a3fb-949594387e69",
+    "data": [
+      {
+        "text": "ты мне тоже нравишься",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d403b224-803e-4d70-add2-2ac647688ea3",
+    "data": [
+      {
+        "text": "правда ты очень мне нравишься",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f983e6ad-1d2d-4ab8-b9f5-820a867ded30",
+    "data": [
+      {
+        "text": "нравишься мне",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "0987e69c-cc03-4840-abe7-10ec289a924e",
+    "data": [
+      {
+        "text": "ты нравишься мне очень-очень",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ea160577-76bc-42d0-86f9-b9ffbc093318",
+    "data": [
+      {
+        "text": "ты так мне нравишься",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ec4324b5-bbf6-4bd3-a339-3b511b96c0b0",
+    "data": [
+      {
+        "text": "ты мне нравишься таким какой ты есть",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ca5106d0-8093-4c95-a762-beb9e565ddfc",
+    "data": [
+      {
+        "text": "да ты мне нравишься",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "390a5e29-a97b-4df0-b78a-4ee60e8860b5",
+    "data": [
+      {
+        "text": "безумно нравишься",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1b2047e5-1cd7-4fad-afb5-b847fec9ce53",
+    "data": [
+      {
+        "text": "очень тебя ценю",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e44fe911-c962-4484-862b-c648749a8636",
+    "data": [
+      {
+        "text": "ты для меня много значишь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "21cb99da-d77a-4b59-b9d4-7e44208d81cf",
+    "data": [
+      {
+        "text": "просто нравишься",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "9d2e9f60-e126-403d-aba6-41a5068e0461",
+    "data": [
+      {
+        "text": "спасибо и ты мне нравишься",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e21c360e-cd9e-4d93-a79e-bb047195571a",
+    "data": [
+      {
+        "text": "ты нравишься мне таким как есть",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e9b1bf8b-1886-46e4-bd04-98e8a92b6829",
+    "data": [
+      {
+        "text": "ты мне ужасно нравишься",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "48bf959e-fffc-42cb-80f5-376f8a87f02e",
+    "data": [
+      {
+        "text": "ты очень милый",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "767aaee9-29a0-476f-bd48-e8709c87ac96",
+    "data": [
+      {
+        "text": "вот это мне в тебе и нравится",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d4bc3f81-e963-4dde-a338-e32fa1e7f75d",
+    "data": [
+      {
+        "text": "это то что мне в тебе нравится больше всего",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "4c287052-1152-46cc-be46-4f3cac19fd4c",
+    "data": [
+      {
+        "text": "ты мне нравишься как друг",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "21500ca6-54e3-49b3-b724-1fb692f64125",
+    "data": [
+      {
+        "text": "это потому что ты особенная",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e730bd6d-55d5-4a00-8b4b-8a5afd3e9cdc",
+    "data": [
+      {
+        "text": "мне нравится твоя улыбка",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "decd79c0-4a66-4f02-b214-393df724f051",
+    "data": [
+      {
+        "text": "ты мне начинаешь нравиться",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "00ba1e12-d61a-42c7-9ec1-50151d3a9d76",
+    "data": [
+      {
+        "text": "но мне это нравится в тебе",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "34219381-9f5f-4a02-8299-efa856a415dd",
+    "data": [
+      {
+        "text": "конечно же ты мне нравишься",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "628cfc34-aa00-482f-b0ce-26158a2fe0ea",
+    "data": [
+      {
+        "text": "ты мне нравишься с тобой приятно общаться",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e666ed58-e4e9-44a0-b5a9-b649db7d9f81",
+    "data": [
+      {
+        "text": "ты смешная мне это нравится",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8eb47103-2091-41b2-a786-25b8818f4213",
+    "data": [
+      {
+        "text": "вот теперь ты мне нравишься",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "635b2482-a969-458f-ad0c-a9caf49033d6",
+    "data": [
+      {
+        "text": "такая ты мне нравишься больше",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5f229bd7-e6e3-4c56-8bba-4721b56fcde2",
+    "data": [
+      {
+        "text": "вот такой ты нравишься мне",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "7831dea5-8986-4a3a-a5fc-74320bcff7cb",
+    "data": [
+      {
+        "text": "да ты мне действительно по-настоящему нравишься",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

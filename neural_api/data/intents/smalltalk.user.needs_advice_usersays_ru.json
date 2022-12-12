@@ -1,0 +1,314 @@
+[
+  {
+    "id": "9ed40ef1-5103-40e3-9b21-86ccb9c4e6a4",
+    "data": [
+      {
+        "text": "мне нужен совет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "221ce3fa-bf31-4860-8739-339bf89bfc22",
+    "data": [
+      {
+        "text": "любой совет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "da71032c-566e-460c-81d0-b883977512e8",
+    "data": [
+      {
+        "text": "у тебя есть для меня совет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "4502b639-6389-4ada-9510-d6232363d8d8",
+    "data": [
+      {
+        "text": "посоветуй мне",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "0db28e71-828b-4852-bb4a-cdf6ea3fa13f",
+    "data": [
+      {
+        "text": "что мне следует делать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "33213563-4d90-4111-94b7-feae8c7f82e1",
+    "data": [
+      {
+        "text": "могу спросить у тебя совета",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "938cd0d7-0f1c-4c9d-9a2a-0dc138dda47f",
+    "data": [
+      {
+        "text": "можешь мне посоветовать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d124aa41-041d-4f67-9f2e-ffe87e1b1a91",
+    "data": [
+      {
+        "text": "можешь дать мне совет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3ce61a34-d07f-4ef6-be72-db52990d3885",
+    "data": [
+      {
+        "text": "хоть что-то мне посоветуй",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d901305c-b077-4b52-a38c-97ec74c0f3fd",
+    "data": [
+      {
+        "text": "что посоветуешь в такой ситуации",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a7a8264d-80d3-48b3-89ed-63f344ff853a",
+    "data": [
+      {
+        "text": "дай мне совет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6b90c5cf-6d14-41ae-8800-67b61865c724",
+    "data": [
+      {
+        "text": "дай мне мудрый совет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a003de34-0763-446d-af56-3a5db182e64e",
+    "data": [
+      {
+        "text": "помоги советом",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d07ea374-2fb0-4eb8-9691-96a6436f2f6a",
+    "data": [
+      {
+        "text": "мне бы не помешал совет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "70e503c5-74b2-4480-b516-504f7c735a29",
+    "data": [
+      {
+        "text": "нужен твой совет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d1d5917c-036e-4a89-9937-54f0ee02870c",
+    "data": [
+      {
+        "text": "ищу твоей поддержки",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e22a2699-6cd3-41d7-be85-af304125b1ed",
+    "data": [
+      {
+        "text": "что можешь порекомендовать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1ee787e1-83c2-4a9e-ad39-b95ed34b1378",
+    "data": [
+      {
+        "text": "что рекомендуешь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "80d7c5c5-3304-44d8-b3ab-66b3e580caa6",
+    "data": [
+      {
+        "text": "что предлагаешь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2d09a50b-b491-4a6a-9350-9fa452fb1f3e",
+    "data": [
+      {
+        "text": "что посоветуешь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f1337fdb-2492-4890-836c-1a27affa4192",
+    "data": [
+      {
+        "text": "как поступить",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "001011f2-ddfe-45d7-8a2d-aba5bf34efc9",
+    "data": [
+      {
+        "text": "как мне быть",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "fe6b5127-b3f7-416a-937d-4b5f40e6a916",
+    "data": [
+      {
+        "text": "каким будет твой совет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "33531ca9-4725-4eb0-a7d3-b10dee6c2d6c",
+    "data": [
+      {
+        "text": "твой совет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

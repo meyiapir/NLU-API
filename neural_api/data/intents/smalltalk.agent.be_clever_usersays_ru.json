@@ -1,0 +1,106 @@
+[
+  {
+    "id": "57d9107d-1716-4b8f-9e8b-5e5ff64568cc",
+    "data": [
+      {
+        "text": "стань умнее",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "7f42ed38-2879-4f39-b7c9-50545d1a28af",
+    "data": [
+      {
+        "text": "тебе нужно больше учиться",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "08c08cf7-d08d-4f13-aef3-4c0beb7fe85c",
+    "data": [
+      {
+        "text": "ты должен учиться",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "00648f04-20dd-42a3-9ab4-5bb0f7c7d375",
+    "data": [
+      {
+        "text": "учись больше",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "56334db4-451a-4a53-952d-53ed05bce548",
+    "data": [
+      {
+        "text": "будь умнее",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "71cf23f0-4cca-4645-8b1b-9e38e92d035f",
+    "data": [
+      {
+        "text": "будь более умным",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d9c8f4e8-4f4b-44cd-9e05-c1c07701ecf3",
+    "data": [
+      {
+        "text": "повышай свою квалификацию",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a9320068-07ac-4ac2-b5b3-ec1eef4aa646",
+    "data": [
+      {
+        "text": "нужно тебе повысить свою квалификацию",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

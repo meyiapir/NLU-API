@@ -1,0 +1,38 @@
+{
+  "id": "cf87bf9a-8a5e-4470-abe0-3aed0b8b1cbb",
+  "name": "smalltalk.user.angry",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.angry",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "speech": [
+            "Что случилось? Я могу чем-то помочь?",
+            "Давай для начала успокоимся, наверняка, всё не так плохо. Что стряслось?",
+            "Ты хочешь об этом поговорить?",
+            "Что-то случилось?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

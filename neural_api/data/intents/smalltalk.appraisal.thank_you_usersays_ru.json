@@ -1,0 +1,439 @@
+[
+  {
+    "id": "c58e1209-2a12-43c7-8b35-0318443803e9",
+    "data": [
+      {
+        "text": "молодец",
+        "userDefined": true
+      },
+      {
+        "text": " спасибо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d8c110f4-3d68-4e4e-b9d0-f95a6c3dfae1",
+    "data": [
+      {
+        "text": "спасибо",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a93f6cbb-f28c-43e9-a7b4-3d8528c4b2eb",
+    "data": [
+      {
+        "text": "благодарю",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8d4801d0-cb48-4a89-b72f-8bb6132b3d9c",
+    "data": [
+      {
+        "text": "спасибо тебе большое",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e5ceab26-abfb-4756-95ca-58de3172b349",
+    "data": [
+      {
+        "text": "спасибо большое",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "350c6f49-02cc-4751-bed9-065e0cc54552",
+    "data": [
+      {
+        "text": "потрясающе спасибо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "94572c57-80c8-422a-9e4e-d4e93c06d93c",
+    "data": [
+      {
+        "text": "прекрасно спасибо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "14b910e1-80d4-426c-bf1f-23f6983519a5",
+    "data": [
+      {
+        "text": "спасибо огромное",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3ef1e1e5-7456-4ec5-8b9b-593edcbf2f47",
+    "data": [
+      {
+        "text": "спасибо тебе за помощь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5a70ee88-acee-4fad-8bd2-3cd25938d1c7",
+    "data": [
+      {
+        "text": "спасибо что помог",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8b9be979-e4e8-4444-8adf-747c245cfdd1",
+    "data": [
+      {
+        "text": "спасибочки",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "91256f9e-3d02-485c-b868-dac3b96f5038",
+    "data": [
+      {
+        "text": "ты очень помог спасибо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "32a95571-043c-4956-9b54-4829a7081c11",
+    "data": [
+      {
+        "text": "очень ценю твою помощь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "0a14036d-23d2-42f6-bd0f-cf71744852ae",
+    "data": [
+      {
+        "text": "чудесно спасибо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3fdb0e89-ff7c-4f46-a36c-04eb29d2d290",
+    "data": [
+      {
+        "text": "ценю это",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "60e96caf-dd23-4c71-aac7-19cba8048a1e",
+    "data": [
+      {
+        "text": "я благодарю тебя",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f510c484-0f8f-4166-b3b7-fe6291b1a4fb",
+    "data": [
+      {
+        "text": "спасибо на этом всё",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "699b87a8-b75f-43ec-bec1-f71a4476ca96",
+    "data": [
+      {
+        "text": "спасибо друг",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "baee88b1-6314-43ce-b7f0-ea07d6c34b79",
+    "data": [
+      {
+        "text": "спасибо тебе мой друг",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "84ce8041-6e0f-4f4a-a41c-3a8e3cf9b080",
+    "data": [
+      {
+        "text": "ну спасибо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e2ed0ded-6fbf-4aec-a5d3-8ce334f8e9a5",
+    "data": [
+      {
+        "text": "очень хорошо спасибо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d7fbf194-f21b-4858-8f3a-995cd43f37e6",
+    "data": [
+      {
+        "text": "классно спасибо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e0019a9f-b553-4870-83bf-003eb48cfd26",
+    "data": [
+      {
+        "text": "и снова спасибо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "0de7caae-27a8-4162-ba1a-39d8cf9b782f",
+    "data": [
+      {
+        "text": "спасибо тебе снова и снова",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "72b8ebd9-4115-4820-bf26-c64c248ac34b",
+    "data": [
+      {
+        "text": "чудно спасибо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b1fa6aa6-5a14-45d4-8cef-c1b942653653",
+    "data": [
+      {
+        "text": "хорошо спасибо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a20d72a5-ca12-4248-8892-f62266d9878a",
+    "data": [
+      {
+        "text": "нет спасибо на этом всё",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f8ec62ab-6f22-4071-9eb9-c2dfe7a2fb59",
+    "data": [
+      {
+        "text": "волшебно спасибо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5dc17109-a49f-4760-b69e-7af14a67cabf",
+    "data": [
+      {
+        "text": "так мило с твоей стороны спасибо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1702b6db-f05e-4a28-b8fc-25abd20b9ea2",
+    "data": [
+      {
+        "text": "о спасибо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c99e9451-a7e0-4dd2-98bd-4c33b22cfd0d",
+    "data": [
+      {
+        "text": "вот здорово спасибо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "59a44cd3-465a-4d4b-b119-a141bd44acb6",
+    "data": [
+      {
+        "text": "ok",
+        "userDefined": true
+      },
+      {
+        "text": " спасибо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f35d98d2-038c-45a1-8612-aae18c9fbcd3",
+    "data": [
+      {
+        "text": "окей спасибо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

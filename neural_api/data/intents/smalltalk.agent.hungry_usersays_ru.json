@@ -1,0 +1,119 @@
+[
+  {
+    "id": "6a241f29-7349-465a-85cb-7dcd26ba55bb",
+    "data": [
+      {
+        "text": "хочешь есть",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c95d794f-bb7b-44db-98a9-6a08d486ef9c",
+    "data": [
+      {
+        "text": "ты голодная",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "533e2107-ca08-49df-b668-a3e9df18a8e2",
+    "data": [
+      {
+        "text": "хочешь что-нибудь поесть",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b9bda1cd-17cb-494e-95f6-b6397cf7a548",
+    "data": [
+      {
+        "text": "ты голодна",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "baf2e30b-cd81-4d52-a2dc-96ab7d612091",
+    "data": [
+      {
+        "text": "ты проголодалась",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "15813722-e70f-4b56-930e-45ce7b55f982",
+    "data": [
+      {
+        "text": "ты так проголодалась",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8f2ff2e5-8c56-475b-adb4-3c32aee0d5e5",
+    "data": [
+      {
+        "text": "ты очень голоден",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "cf621cef-45fa-4843-aca6-64f6bb154b40",
+    "data": [
+      {
+        "text": "возможно ты проголодался",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "419a39ac-5e35-48a8-90e9-58e80bc8c6ff",
+    "data": [
+      {
+        "text": "ты голоден не так ли",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

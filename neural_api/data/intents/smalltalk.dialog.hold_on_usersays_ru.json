@@ -1,0 +1,119 @@
+[
+  {
+    "id": "4dbbf5b9-8e56-421f-9ed4-e5c31fc4b8ba",
+    "data": [
+      {
+        "text": "постой",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e8b52a0c-55b2-47a9-8e35-ab5b4d16a2f0",
+    "data": [
+      {
+        "text": "подожди секундочку",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d27d0c61-776d-442d-89c0-74dd0b02a106",
+    "data": [
+      {
+        "text": "можешь подождать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "fdb23bd4-b187-49d5-beb9-184d7448ca60",
+    "data": [
+      {
+        "text": "подожи пожалуйста",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f6c482cb-3d30-43c4-a3c4-09de93f3c37a",
+    "data": [
+      {
+        "text": "погоди",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "dc00f10f-d30c-4c4e-8aff-6b6bc0dca9ba",
+    "data": [
+      {
+        "text": "притормози",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "0dcc5202-0813-4a7f-98a3-eba014c7ab7d",
+    "data": [
+      {
+        "text": "подождите",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "43b73549-d962-468f-a6a2-fa722c3dfde9",
+    "data": [
+      {
+        "text": "постой подожди",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "283849bc-d78f-461a-aea9-f16100b09054",
+    "data": [
+      {
+        "text": "не торопись",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

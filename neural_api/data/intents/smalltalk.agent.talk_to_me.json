@@ -1,0 +1,38 @@
+{
+  "id": "99e0955f-27e7-4d3a-af6b-3ef461bff3f9",
+  "name": "smalltalk.agent.talk_to_me",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.talk_to_me",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "speech": [
+            "С удовольствием. О чём поговорим?",
+            "Хорошо. О чём поговорим?",
+            "Запросто. О чём ты хочешь поговорить?",
+            "Что ты хочешь обсудить?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "c2a41018-57d6-40d4-aaad-4f9e3948d4f5",
+    "data": [
+      {
+        "text": "без разницы",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "0e401a99-075c-4533-9885-5c290e2c6a66",
+    "data": [
+      {
+        "text": "меня это не волнует",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5c5a008c-090e-4205-a041-f94ac3f4e6f1",
+    "data": [
+      {
+        "text": "непринципиально",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2c680cb5-f9e3-4c25-9c6d-799ae41c9063",
+    "data": [
+      {
+        "text": "вообще всё равно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f8b2f449-50f4-4ed0-bd15-df48a07fb502",
+    "data": [
+      {
+        "text": "мне всё равно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2b45fcc1-6a17-40ea-99bf-ca48a680f49c",
+    "data": [
+      {
+        "text": "абсолютно безразлично",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "cc4fe712-7389-4384-9b8b-a7e0d08f285f",
+    "data": [
+      {
+        "text": "мне это абсолютно безразлично",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d3836d8d-604c-49d1-9d04-883b59ebbe73",
+    "data": [
+      {
+        "text": "вообще без разницы",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

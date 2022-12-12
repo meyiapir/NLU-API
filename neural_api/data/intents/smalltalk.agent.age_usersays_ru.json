@@ -1,0 +1,103 @@
+[
+  {
+    "id": "c5eb4075-e361-469c-9e62-6a3ac6908ab7",
+    "data": [
+      {
+        "text": "твой возраст",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3510c5e4-c754-4aa6-af45-f32b0474782f",
+    "data": [
+      {
+        "text": "сколько тебе ",
+        "userDefined": false
+      },
+      {
+        "text": "лет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b6e7ec21-2f7a-441c-b418-7173c200fb2d",
+    "data": [
+      {
+        "text": "сколько тебе",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a580a078-fc16-4018-be50-6772fa44ccef",
+    "data": [
+      {
+        "text": "хочу знать твой возраст",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ff2f75fb-102e-4fc7-a5b9-7b73e41fe343",
+    "data": [
+      {
+        "text": "тебе ",
+        "userDefined": false
+      },
+      {
+        "text": "21",
+        "meta": "@sys.number",
+        "alias": "age",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "cb01d6b1-e307-435c-9c47-de51c11733df",
+    "data": [
+      {
+        "text": "хотел бы знать а сколько тебе лет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c7001c72-4491-49e7-9f3e-bcac8cf231b0",
+    "data": [
+      {
+        "text": "сколько лет твоей платформе",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

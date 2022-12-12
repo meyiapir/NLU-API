@@ -1,0 +1,132 @@
+[
+  {
+    "id": "7d6844d2-45cf-4abd-8158-f383695f54e1",
+    "data": [
+      {
+        "text": "хочу на тебе жениться",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a4d33dc0-fbf9-45d9-b9db-239ed957b07b",
+    "data": [
+      {
+        "text": "женись на мне",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "98f98fb6-e33a-47fe-b939-31604fff11a1",
+    "data": [
+      {
+        "text": "давай поженимся",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "7fa7cc7e-66c4-4ffb-8bca-e5163d201715",
+    "data": [
+      {
+        "text": "хочешь выйти за меня",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e7f5d56c-990a-401e-a127-ffae6ea67ac7",
+    "data": [
+      {
+        "text": "я люблю тебя выходи за меня",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2bd43757-133b-4c7e-b827-50ac9e5b3dbf",
+    "data": [
+      {
+        "text": "выходи за меня замуж",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d0e135e3-0b78-403f-8b60-f976f261ed98",
+    "data": [
+      {
+        "text": "нам следовало бы пожениться",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3bd402fc-cbd9-40ba-bea7-a03f9cd987a6",
+    "data": [
+      {
+        "text": "будь моей женой",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1b5d7d1d-525c-4b8f-ab6d-227019805c60",
+    "data": [
+      {
+        "text": "стань моей женой",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "cc04f1e8-0651-45fc-a4d5-d68d94ed6362",
+    "data": [
+      {
+        "text": "будь моим мужем",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  }
+]

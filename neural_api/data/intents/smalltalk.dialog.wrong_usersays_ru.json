@@ -1,0 +1,171 @@
+[
+  {
+    "id": "03c9058b-554b-484d-8748-05a2765cb903",
+    "data": [
+      {
+        "text": "ты не прав",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "9843ee8a-07af-4e75-b45a-858f87412488",
+    "data": [
+      {
+        "text": "неверно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "4f5ec070-b56d-4012-bc11-6e831d2e917e",
+    "data": [
+      {
+        "text": "это неправильно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f9a97eff-505a-4741-ab9b-8710d3e4ee1c",
+    "data": [
+      {
+        "text": "это не так",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "688c758e-6fba-42bf-a7bb-f35eeb174bb0",
+    "data": [
+      {
+        "text": "это не совсем так",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "239d713b-243f-4be1-bfa0-14a9612e0104",
+    "data": [
+      {
+        "text": "это неверно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "eae48ce3-a286-4c46-960f-23470f3ac995",
+    "data": [
+      {
+        "text": "неправильный ответ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b7772c16-744a-43d4-99fa-b621d88071d9",
+    "data": [
+      {
+        "text": "некорректно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ce3249db-80b3-4b4b-a363-2ed7a0e073d2",
+    "data": [
+      {
+        "text": "не соответствует действительности",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "88bf97de-0bf5-43ae-b224-26b962d429f5",
+    "data": [
+      {
+        "text": "неправильно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b69441d9-b104-456e-9767-18e0806dffa5",
+    "data": [
+      {
+        "text": "это было неправильным",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ed1b0d9d-5e19-4ce7-92c8-52f17f229a81",
+    "data": [
+      {
+        "text": "это не то о чём я спросил",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "7ef604c0-aaa9-4ac3-9dba-d2503073b17e",
+    "data": [
+      {
+        "text": "это не то что я прошу",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

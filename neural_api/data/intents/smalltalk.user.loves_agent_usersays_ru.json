@@ -1,0 +1,119 @@
+[
+  {
+    "id": "9fbb8d77-2425-4a4f-a753-0cdcb73243d3",
+    "data": [
+      {
+        "text": "я люблю тебя",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "de1bbfdc-baf1-40c2-9e0b-e341237435e5",
+    "data": [
+      {
+        "text": "люблю тебя",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "46a3dd18-d0af-4e28-be60-872a16d58fcc",
+    "data": [
+      {
+        "text": "обожаю",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "633ba764-b42c-40f0-82c1-c75d69af9b97",
+    "data": [
+      {
+        "text": "я тебя обожаю",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "078d2a00-475e-478f-9758-1cf73541a8d6",
+    "data": [
+      {
+        "text": "я так сильно люблю тебя",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a0177165-6d80-4090-92e4-dfe0fceae839",
+    "data": [
+      {
+        "text": "я тоже тебя люблю",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a4d712f2-e27f-4790-9006-b00a29815794",
+    "data": [
+      {
+        "text": "думаю я тебя люблю",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "0e6e42f9-82ac-443a-864e-ac6036e51e02",
+    "data": [
+      {
+        "text": "я влюбился в тебя",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a5cdc1e3-a285-49b7-a807-321035ba4edd",
+    "data": [
+      {
+        "text": "знаешь а я люблю тебя",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

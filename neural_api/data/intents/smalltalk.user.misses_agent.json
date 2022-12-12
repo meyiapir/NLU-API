@@ -1,0 +1,38 @@
+{
+  "id": "7256b994-a8b7-4df5-8814-f534889f907f",
+  "name": "smalltalk.user.misses_agent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.misses_agent",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "speech": [
+            "А я ведь всё время тут.",
+            "Приятно, что ты обо мне помнишь.",
+            "Спасибо, мне приятно.",
+            "Приятно это слышать."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

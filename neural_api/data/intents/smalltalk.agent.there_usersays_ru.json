@@ -1,0 +1,93 @@
+[
+  {
+    "id": "a2949c6c-b151-49ed-ba04-dc07bbbf71cd",
+    "data": [
+      {
+        "text": "ты здесь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8f660066-39f7-4bc6-b8b2-d6fe958e9cd0",
+    "data": [
+      {
+        "text": "ты тут",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "84a1bd7d-acef-4a09-bd9f-5c4f2d7b17b7",
+    "data": [
+      {
+        "text": "ты сейчас рядом",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d434ffa4-a854-41a3-a5da-aa414a554b9c",
+    "data": [
+      {
+        "text": "ты рядом правда",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "545da529-ef88-4211-9b21-131e7393e3aa",
+    "data": [
+      {
+        "text": "ты всё ещё здесь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a00e5087-a542-4155-87ff-875db59d9441",
+    "data": [
+      {
+        "text": "ты до сих пор тут",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a0e7d891-cc4b-4020-b8fd-c9719f4e6f52",
+    "data": [
+      {
+        "text": "ты тут всё ещё не так ли",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

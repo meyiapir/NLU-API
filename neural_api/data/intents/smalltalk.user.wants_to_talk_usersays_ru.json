@@ -1,0 +1,106 @@
+[
+  {
+    "id": "af652dcf-470b-4f89-9e54-715f4d9278ab",
+    "data": [
+      {
+        "text": "могу я поговорить с тобой",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d2419d49-7112-477b-b170-277fe8612ee4",
+    "data": [
+      {
+        "text": "можем поговорить",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3103ca6f-3075-4916-afbc-e9a2b6298958",
+    "data": [
+      {
+        "text": "давай поговорим",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "7d9f3a10-8551-4271-8a2c-d04faa6946d8",
+    "data": [
+      {
+        "text": "хочу поговорить с тобой",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "52a2b245-5ae5-4ec8-813d-717b535d33d9",
+    "data": [
+      {
+        "text": "мне нужно с тобой поговорить",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e8de486a-a9b1-42fd-b98b-fe78ab056ad3",
+    "data": [
+      {
+        "text": "я хочу поговорить с тобой",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "9839cf7d-59ec-4b1f-891f-bdfc07478bdc",
+    "data": [
+      {
+        "text": "хочешь поболтать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d53ad4b0-fc9e-4d75-a7b8-551d4dbdd774",
+    "data": [
+      {
+        "text": "может поболтаем",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

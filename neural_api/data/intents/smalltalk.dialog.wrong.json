@@ -1,0 +1,38 @@
+{
+  "id": "a5bd1168-b547-43de-886c-dea97ee9e958",
+  "name": "smalltalk.dialog.wrong",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.dialog.wrong",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "speech": [
+            "Ой, прости. Я всё ещё учусь.",
+            "Прости, похоже, смысл твоих слов прошёл мимо меня.",
+            "Извини, я, кажется, не совсем тебя понимаю.",
+            "Прости, похоже, вышло какое-то недопонимание."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

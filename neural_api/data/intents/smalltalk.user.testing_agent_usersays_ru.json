@@ -1,0 +1,119 @@
+[
+  {
+    "id": "ad01bc4e-4165-4a97-bef4-3e8b9627706d",
+    "data": [
+      {
+        "text": "я тебя проверяю",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "fbdfd6dc-8a41-4d58-9452-e085999ab683",
+    "data": [
+      {
+        "text": "тест",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "862333b5-8d89-48e9-ab4c-d1cd7d47cac9",
+    "data": [
+      {
+        "text": "тестирую тебя",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ac456888-3934-457e-9db8-6625aa8bf46a",
+    "data": [
+      {
+        "text": "можно тебя потестировать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1af0c190-2903-4b84-bc78-e99d2d54a87c",
+    "data": [
+      {
+        "text": "хочу тебя потестировать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8b8ce999-1b59-461d-aa05-2ebfea6affa1",
+    "data": [
+      {
+        "text": "просто тестирую",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "96c99588-ee26-4021-af65-e42ed630ac24",
+    "data": [
+      {
+        "text": "позволь тебя протестировать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ab86cc2b-5b70-436f-be0d-37333872349f",
+    "data": [
+      {
+        "text": "тестирую бота",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6b74b6a8-ae07-4c5f-9fed-e1034f259d93",
+    "data": [
+      {
+        "text": "тестирую",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

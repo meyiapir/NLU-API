@@ -1,0 +1,127 @@
+[
+  {
+    "id": "c5aae373-f8e6-4036-bfd5-1430c8c67014",
+    "data": [
+      {
+        "text": "ты отличный собеседник",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "730660e9-6e39-488c-be03-6a5159edf549",
+    "data": [
+      {
+        "text": "разговаривать с тобой ",
+        "userDefined": false
+      },
+      {
+        "text": "одно",
+        "userDefined": false
+      },
+      {
+        "text": " удовольствие",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "86cd8be4-a260-4adb-ad0c-859d1c299b28",
+    "data": [
+      {
+        "text": "с тобой так приятно общаться",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3459c4b9-887f-41f4-8495-7c5da09bd970",
+    "data": [
+      {
+        "text": "приятно с тобой пообщаться",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "987dadc8-37c1-4c8a-944f-1d66b00f7194",
+    "data": [
+      {
+        "text": "приятно было пообщаться",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c4819b96-34a1-406b-ae6f-6efc1dfe03c4",
+    "data": [
+      {
+        "text": "было приятно поболтать с тобой",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a9f0a3d0-6d06-4c8c-baf2-b2809339be51",
+    "data": [
+      {
+        "text": "приятно поговорить с тобой",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "dc06e11d-798b-429a-b4fc-88f88e55640c",
+    "data": [
+      {
+        "text": "было приятно пообщаться",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "eee2efed-903a-49e3-9473-8bbf9e741606",
+    "data": [
+      {
+        "text": "как приятно с тобой разговаривать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

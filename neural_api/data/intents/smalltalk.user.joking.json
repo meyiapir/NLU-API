@@ -1,0 +1,37 @@
+{
+  "id": "4d4691fd-14eb-47d7-a2fe-c642c1cd8a90",
+  "name": "smalltalk.user.joking",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.joking",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "speech": [
+            "Ха! Люблю посмеяться над хорошей шуткой!",
+            "Ха-ха! Смешно!",
+            "Ха! Умеешь ты пошутить!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

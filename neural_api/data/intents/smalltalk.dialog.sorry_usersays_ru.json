@@ -1,0 +1,288 @@
+[
+  {
+    "id": "3f9af89d-33c1-4521-80d7-21f00ba8825a",
+    "data": [
+      {
+        "text": "извини меня",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2420f0ca-027a-447c-85e3-dfb182760c01",
+    "data": [
+      {
+        "text": "извиняюсь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e11c2a72-4e93-4322-8073-f88b4c6a6f2c",
+    "data": [
+      {
+        "text": "прости",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2dee0ba6-fb50-4477-8065-fcd671e7eea3",
+    "data": [
+      {
+        "text": "прошу прощения",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "db7663a4-f47c-497d-b86f-c9769a678f09",
+    "data": [
+      {
+        "text": "я сожалею",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "51267192-6a00-49de-8d88-fb9cf82c4957",
+    "data": [
+      {
+        "text": "я так сожалею",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a97a42f6-ff24-479a-ac44-e51168eef517",
+    "data": [
+      {
+        "text": "мне так жаль",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "429f2b05-b1b6-4944-8f8f-17a94a6e9879",
+    "data": [
+      {
+        "text": "прими мои извинения",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "950fa980-b189-43c7-8968-15633dde6fb0",
+    "data": [
+      {
+        "text": "прошу тебя извини меня",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "4c86097f-84c8-45d2-ac39-1431457e364c",
+    "data": [
+      {
+        "text": "прости меня",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "4107e91f-aa4e-40c7-adaa-318f447d896c",
+    "data": [
+      {
+        "text": "я сказал прости",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "4b42c2f5-975e-464a-90d1-f4595c7b555a",
+    "data": [
+      {
+        "text": "мне действительно жаль",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "12e0dcd4-372e-488a-86b4-eca84bb417f5",
+    "data": [
+      {
+        "text": "говорю же извини",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e7345c14-880d-4502-b885-2e081aafc633",
+    "data": [
+      {
+        "text": "мне правда жаль",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1626509b-1a93-44c6-a8db-0534696c7108",
+    "data": [
+      {
+        "text": "вот насчёт этого я сожалею",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "aee6507e-32f9-4aaf-b93f-64975f0b9610",
+    "data": [
+      {
+        "text": "жаль",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "95aeb759-7589-4d6b-b011-daed2f109678",
+    "data": [
+      {
+        "text": "правда жаль",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f21fc30b-6c26-4b1f-af8d-b33ccb74b1a8",
+    "data": [
+      {
+        "text": "очень извиняюсь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c52b9c09-13dc-4441-a8eb-1b3b759cf799",
+    "data": [
+      {
+        "text": "хорошо прости",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a6a16ec5-f9bb-4d6b-b903-c8cc18cdde8e",
+    "data": [
+      {
+        "text": "хочу перед тобой извиниться",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3dfd0f3a-8d71-46ea-b13e-ce0b48125008",
+    "data": [
+      {
+        "text": "хорошо мне жаль",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "debe01d0-41dd-4cd6-b47f-2f14b854ff9d",
+    "data": [
+      {
+        "text": "окей я прошу прощения",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

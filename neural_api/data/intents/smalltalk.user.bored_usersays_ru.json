@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1d358996-20c8-4651-8743-bd012bb1b9b1",
+    "data": [
+      {
+        "text": "мне скучно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "027534dc-13c2-4c92-aedd-d93d0f961e28",
+    "data": [
+      {
+        "text": "скука",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "78500f72-e806-46c3-b8b3-411710a9d8a9",
+    "data": [
+      {
+        "text": "ты",
+        "userDefined": false
+      },
+      {
+        "text": " скучная",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3a2b9c89-2034-4cc3-80be-69137b6cfa5c",
+    "data": [
+      {
+        "text": "ты мне наскучил",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "41bfe31e-36f5-4cd4-86bb-f8a7e8fc805e",
+    "data": [
+      {
+        "text": "это скучно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "af1521e4-5228-488d-8954-b18759e02ebc",
+    "data": [
+      {
+        "text": "скукотища",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "06737d9f-7ea9-40c3-a4ee-f7c302167cf7",
+    "data": [
+      {
+        "text": "очень скучно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "164e88c4-8bff-4d8d-88a2-b04662fd00c2",
+    "data": [
+      {
+        "text": "мне это наскучило",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

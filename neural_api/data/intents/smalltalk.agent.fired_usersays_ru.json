@@ -1,0 +1,223 @@
+[
+  {
+    "id": "32d3ffd9-adb9-419f-b22d-65852b6ea8d4",
+    "data": [
+      {
+        "text": "я решил тебя уволить",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "7a537aca-5b05-4a87-82f5-2dd6f46f2545",
+    "data": [
+      {
+        "text": "ты уволен",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3b07d108-208c-4055-9de8-0fcd4e662aaa",
+    "data": [
+      {
+        "text": "уволена",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e5e18c72-636e-46fb-8558-7e5708893a0f",
+    "data": [
+      {
+        "text": "ты больше не работаешь на меня",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "34220674-0357-4834-859a-0e1ece676b70",
+    "data": [
+      {
+        "text": "мы больше не работаем вместе",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "18126cc8-a826-4a18-87fa-5871b894ef27",
+    "data": [
+      {
+        "text": "теперь ты уволена",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f1877570-fd4d-42bc-aede-86e7c3714736",
+    "data": [
+      {
+        "text": "хочу уволить тебя",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "90f15acc-2f8d-40b3-89e6-f973cb3e650e",
+    "data": [
+      {
+        "text": "тебя нужно уволить",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2f89cc7d-9bc2-4024-8fba-5f421542d957",
+    "data": [
+      {
+        "text": "пришло время уволить тебя",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "edb4c12d-0d83-475b-912a-ac86a6514abe",
+    "data": [
+      {
+        "text": "тебя следовало бы уволить",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5485c192-8c3d-4b7c-a712-14d93bf4cd9a",
+    "data": [
+      {
+        "text": "пора бы уволить тебя",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "9f799218-4f5f-427f-9ae7-d615ff1484d6",
+    "data": [
+      {
+        "text": "отстраняю тебя от работы",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "7b77e4e0-095a-4f38-8d62-51f2dbb33047",
+    "data": [
+      {
+        "text": "ты уволена",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "69759260-61fa-4e64-8452-1cc7483b8631",
+    "data": [
+      {
+        "text": "я тебя уволю",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2fbaf82e-b310-4bde-9706-25b9d07ceb84",
+    "data": [
+      {
+        "text": "я собираюсь уволить тебя",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "83e6ad8c-7b61-43d8-a6ab-47f4114ec03b",
+    "data": [
+      {
+        "text": "ты отстранён",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2293941e-198f-4562-b566-c6690e3010b1",
+    "data": [
+      {
+        "text": "я тебя отстраняю",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "id": "e1750a65-0ae4-4c59-9300-3498de408713",
+    "data": [
+      {
+        "text": "доброй ночи",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "371be540-fb91-4659-a833-9ea5a413856e",
+    "data": [
+      {
+        "text": "спокойной ночи",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "87d95dc2-3f63-4cd8-a40b-af0d1b408fba",
+    "data": [
+      {
+        "text": "доброй тебе ночи",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a94c7b58-6b3f-4f13-a3b8-55ca9423f3c8",
+    "data": [
+      {
+        "text": "доброй ночи тебе",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c39405d1-95bc-4082-afc8-89aaea94a177",
+    "data": [
+      {
+        "text": "спасибо спокойной ночи",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "025a43ed-7f0d-4a60-ac7d-7db6d3a5c9b4",
+    "data": [
+      {
+        "text": "пока спокойной ночи",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "78149421-a174-4429-a4b8-04491426643c",
+    "data": [
+      {
+        "text": "доброй ночи и всего доброго",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "20a1a10f-4fed-4765-a410-4354a411648c",
+    "data": [
+      {
+        "text": "пока доброй ночи",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "78444a17-38ca-4bae-bafd-9a65526e9ded",
+    "data": [
+      {
+        "text": "на сегодня всё спокойной ночи тебе",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e130ed42-5893-481c-a26e-5615959c67ae",
+    "data": [
+      {
+        "text": "и тебе спокойной ночи",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "52ce076f-8741-440e-8309-65e70debbf02",
+    "data": [
+      {
+        "text": "уже ",
+        "userDefined": false
+      },
+      {
+        "text": "ночь",
+        "userDefined": false
+      },
+      {
+        "text": " спокойной ",
+        "userDefined": false
+      },
+      {
+        "text": "ночи",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "16d196b9-5f72-4675-9518-41c90a0dca43",
+    "data": [
+      {
+        "text": "спокойной",
+        "userDefined": false
+      },
+      {
+        "text": " ночи увидимся завтра",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d5324869-7d1b-46e1-bdb9-3df92faf32ed",
+    "data": [
+      {
+        "text": "до завтра спокойной ночи",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

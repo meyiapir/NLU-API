@@ -1,0 +1,106 @@
+[
+  {
+    "id": "f62fc59c-d563-43f4-b85b-6af65f2dc244",
+    "data": [
+      {
+        "text": "не сомневаешься",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "9c6874ce-8f3b-44bf-8999-80b607c3e6f5",
+    "data": [
+      {
+        "text": "ты уверен",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f4cc94ae-e222-4260-8388-ee5cea53786c",
+    "data": [
+      {
+        "text": "ты сейчас уверена",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "40814e65-1ce1-4646-a98f-bde03caf3439",
+    "data": [
+      {
+        "text": "уверена",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b6c8a94b-48e4-4088-bd37-1dc1b9f3f73f",
+    "data": [
+      {
+        "text": "уверен сейчас",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e8efe4c4-17af-4a27-863a-e98b3e846324",
+    "data": [
+      {
+        "text": "ты в этом уверена",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "fd185874-ae29-4232-811c-b33bec8d1358",
+    "data": [
+      {
+        "text": "ты был в этом уверен",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3a0a9e5d-5e88-4750-85d3-935dba19838a",
+    "data": [
+      {
+        "text": "ты в этом не сомневаешься",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

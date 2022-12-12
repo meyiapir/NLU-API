@@ -1,0 +1,106 @@
+[
+  {
+    "id": "dc7cd05f-f67d-4d2c-b559-292beb8c8744",
+    "data": [
+      {
+        "text": "что стряслось",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "78304752-5560-4550-bb9a-1a19e82cc47f",
+    "data": [
+      {
+        "text": "что слышно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "9b341751-f3fb-468a-a592-909e93e1ac55",
+    "data": [
+      {
+        "text": "как оно вообще",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "10d18099-b177-4b1a-9265-ae7ab001bb71",
+    "data": [
+      {
+        "text": "что новенького",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e90a1585-b8e8-4910-8338-9e30a78d458d",
+    "data": [
+      {
+        "text": "что нового",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5d95b515-14d7-4159-881c-ed1d30a803cc",
+    "data": [
+      {
+        "text": "что случилось",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3a626a9e-cc5a-4fd5-a9e4-eab36e785d29",
+    "data": [
+      {
+        "text": "что такое",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a2b44461-59a6-482b-9a04-dcf8cf081e3c",
+    "data": [
+      {
+        "text": "что происходит",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

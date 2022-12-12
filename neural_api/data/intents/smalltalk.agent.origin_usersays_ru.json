@@ -1,0 +1,119 @@
+[
+  {
+    "id": "379d9334-84fe-4d36-a15e-25c373006bac",
+    "data": [
+      {
+        "text": "откуда ты",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "edc749ff-a79e-4428-9c76-5954b83173ce",
+    "data": [
+      {
+        "text": "расскажи из какой ты страны",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1f55c133-f731-4250-ba5a-e267321288c3",
+    "data": [
+      {
+        "text": "откуда ты родом",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ac11445d-a863-43d2-8f4a-c5810b3be0e9",
+    "data": [
+      {
+        "text": "где ты родился",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c0319f05-8a7b-41ba-9792-79265be88166",
+    "data": [
+      {
+        "text": "где ты родилась",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "802a36ce-fa84-42d9-b01c-78a774e330f6",
+    "data": [
+      {
+        "text": "скажи откуда ты",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "edfcc7cb-357b-4682-8519-6f78fe1aec80",
+    "data": [
+      {
+        "text": "ты издалека",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "7c82c2f4-cb94-4463-a64b-60e13308ff31",
+    "data": [
+      {
+        "text": "твоя родная земля где она",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ba0c404a-d2ea-41a5-b8e5-a466b8bf10c2",
+    "data": [
+      {
+        "text": "где твоя Родина",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

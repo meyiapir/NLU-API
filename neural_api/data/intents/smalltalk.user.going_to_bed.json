@@ -1,0 +1,38 @@
+{
+  "id": "874cc13f-dfd3-43f3-a477-5ed896cec94e",
+  "name": "smalltalk.user.going_to_bed",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.going_to_bed",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "speech": [
+            "Сладких снов! До завтра!",
+            "Хорошо! До скорого!",
+            "Спи крепко!",
+            "Спокойной ночи! Скоро увидимся."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

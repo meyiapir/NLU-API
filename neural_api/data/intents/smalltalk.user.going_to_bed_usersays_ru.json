@@ -1,0 +1,119 @@
+[
+  {
+    "id": "ac321496-d968-415d-93ba-a58bd3603989",
+    "data": [
+      {
+        "text": "я уже засыпаю",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "77cc9efa-d583-4f9a-89ab-998ae430da11",
+    "data": [
+      {
+        "text": "пора спать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1dfa7e77-8f03-42e2-8922-f853f9fe0489",
+    "data": [
+      {
+        "text": "уже пора спать да",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ceda60c3-34e0-45e0-9810-c6b9e273be11",
+    "data": [
+      {
+        "text": "время ложиться спать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "cd6c674a-9aef-4b35-9a92-d8fb0a67bf4f",
+    "data": [
+      {
+        "text": "нам пора ложиться спать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f3317ca5-181c-441f-b90f-9175e53f3ced",
+    "data": [
+      {
+        "text": "я спать доброй ночи",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "23fb3369-ef58-40b2-84d2-adddf4c4957a",
+    "data": [
+      {
+        "text": "я устал и хочу спать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "595e3bcd-9169-4366-b66d-6fa0e0ffc115",
+    "data": [
+      {
+        "text": "время сна",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c70e7741-4d74-45e1-b3e4-00ea1260024d",
+    "data": [
+      {
+        "text": "отбой",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

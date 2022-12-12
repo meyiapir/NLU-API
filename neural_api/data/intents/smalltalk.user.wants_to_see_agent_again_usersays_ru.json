@@ -1,0 +1,125 @@
+[
+  {
+    "id": "0ff72ae1-058e-471f-85e4-0ca2823a89c1",
+    "data": [
+      {
+        "text": "скоро",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " встретимся",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "96396b99-fed7-4246-920f-951e7c0643d6",
+    "data": [
+      {
+        "text": "когда встретимся",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "13d7ae4b-f9c9-43f9-8180-0b621582a167",
+    "data": [
+      {
+        "text": "когда увидимся",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6ea28d94-f1d1-44b7-a7be-7573d66f4d37",
+    "data": [
+      {
+        "text": "когда мы снова увидимся",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "600dd815-44d8-4d54-b1d7-9630b48718b8",
+    "data": [
+      {
+        "text": "надеюсь снова тебя увидеть",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "dc722a57-e7f3-4373-92a8-a327da7b420e",
+    "data": [
+      {
+        "text": "было бы здорово увидеть тебя снова",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f68379c8-83c4-4180-9044-eec477c309dc",
+    "data": [
+      {
+        "text": "было бы классно увидеться снова",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "4fbd285b-f782-48e5-8083-2485a807d978",
+    "data": [
+      {
+        "text": "я была бы счастлива снова тебя увидеть",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2ad833f7-ad74-47bc-88c2-b89cdb012c9f",
+    "data": [
+      {
+        "text": "могу ли я увидеть тебя снова",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

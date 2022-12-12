@@ -1,0 +1,578 @@
+[
+  {
+    "id": "4a9ee2ff-918b-4a9e-b807-3045147f94cb",
+    "data": [
+      {
+        "text": "ты мне очень помогла",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8dc03705-6784-45c3-9100-ce7f8bb8ad8d",
+    "data": [
+      {
+        "text": "ты лучшая",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6eee4e9e-3910-4543-a4b9-53a993bce0aa",
+    "data": [
+      {
+        "text": "настоящий профессионал",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "56dbf2ed-f983-46de-97ea-030e0565ef56",
+    "data": [
+      {
+        "text": "прекрасно сработано",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ea1c784e-4fb9-4eec-815b-65529b4ef927",
+    "data": [
+      {
+        "text": "ты хороша в этом",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f220912b-237a-4c2d-a86e-a5592286688a",
+    "data": [
+      {
+        "text": "ты помог мне",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b0037ca2-1136-4c7b-b817-be4d08478e90",
+    "data": [
+      {
+        "text": "ты просто профи",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "fb734bef-b563-437b-beb7-0db156697d59",
+    "data": [
+      {
+        "text": "ты профессионал",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8ac0a6ac-fc2e-4505-a665-11075ed5a286",
+    "data": [
+      {
+        "text": "ты великолепна",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5e3a7df0-7a16-4ac8-808b-59ce34c52c71",
+    "data": [
+      {
+        "text": "работаешь",
+        "userDefined": false
+      },
+      {
+        "text": " чудесно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "245bcffc-643a-4cf9-af8f-05f6b408770d",
+    "data": [
+      {
+        "text": "ты совершенство",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "590cabb6-8ec7-4960-898c-deb5d0193d27",
+    "data": [
+      {
+        "text": "ты прекрасен",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "51251a01-3ca4-45ad-b8d6-b2737b4000f9",
+    "data": [
+      {
+        "text": "ты такой добрый",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c4163f20-5da6-433c-be22-9e706c71e665",
+    "data": [
+      {
+        "text": "ты удивительная",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e93d7ddd-236c-42af-bc14-dc6915bab236",
+    "data": [
+      {
+        "text": "ты добряк",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2abaa8ab-80d0-42a0-b499-fec9b11ad4c2",
+    "data": [
+      {
+        "text": "добрая",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "bbc557e4-7dd6-479c-bccf-b45fa189e7b6",
+    "data": [
+      {
+        "text": "ты правда чудесная",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e052b905-68af-42f2-a958-c145125071a0",
+    "data": [
+      {
+        "text": "ты действительно удивительный",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "263ddfa5-b1cc-4b87-a2e7-a278ef4daf09",
+    "data": [
+      {
+        "text": "такой великолепный",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "82cd8dc6-3859-462e-81f0-a9471739222b",
+    "data": [
+      {
+        "text": "ты крутой",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "54cd6f4b-d618-4fdb-8f80-cb76ae80df78",
+    "data": [
+      {
+        "text": "такой классный",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "fbaa8779-7860-4707-8a43-4722469425b5",
+    "data": [
+      {
+        "text": "ты просто класс",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a133b791-fa96-43fa-8cfe-8ba7c7bd627a",
+    "data": [
+      {
+        "text": "ты очень хороша",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d5c01c2a-e89f-4c69-9be7-15b25ec5ba7c",
+    "data": [
+      {
+        "text": "очень полезно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8caa8549-d68e-45c5-9e04-5ccd1841c031",
+    "data": [
+      {
+        "text": "полезный",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8bbbd2c1-2a09-4400-8df1-5c37bbc9f159",
+    "data": [
+      {
+        "text": "ты приятная",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5015ed95-4c45-47b6-a8d4-2fdaea9a3330",
+    "data": [
+      {
+        "text": "ты такая полезная",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "96a9d39c-c4f6-4ecc-9cd8-5834e5af9918",
+    "data": [
+      {
+        "text": "от тебя сплошная польза",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f24d7d5d-27d3-4c1f-8b51-fd512b6cdd36",
+    "data": [
+      {
+        "text": "ты просто чудесная",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "80ea3753-8596-4de3-a0d1-005c544536fd",
+    "data": [
+      {
+        "text": "ты супер",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "82e203ba-307c-429a-89aa-cace463a3bf2",
+    "data": [
+      {
+        "text": "ты милая",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "0307369e-93a8-4825-a6b0-ee88005edfda",
+    "data": [
+      {
+        "text": "ты самый лучший",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e50e2ff0-bf9b-417c-ae39-49414a989d1d",
+    "data": [
+      {
+        "text": "лучший в мире",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "4899d425-1326-4672-aefa-2656b921c004",
+    "data": [
+      {
+        "text": "ты самая лучшая во всём мире",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "33be0ea6-6a0b-404e-98c9-7ddcc0c680a2",
+    "data": [
+      {
+        "text": "ты слишком хороша",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "03b5744a-053d-4a0d-947c-fdb3b0134bb0",
+    "data": [
+      {
+        "text": "ты очень крут",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "add96097-b423-4e47-a55a-402d624cd4a9",
+    "data": [
+      {
+        "text": "благодаря тебе мой день удался",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "cdfffcfb-0e14-4f97-b438-90ba064bf21d",
+    "data": [
+      {
+        "text": "ты порадовал меня",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "31eae28a-4116-4b6a-80b9-8ce72f7ce93e",
+    "data": [
+      {
+        "text": "ты почти как человек",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "fc33b281-4806-4fe0-8175-1bda7d81ea7e",
+    "data": [
+      {
+        "text": "хочу всем рассказать насколько ты прекрасна",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "18238f3b-13a9-4f72-aa90-b64297a031da",
+    "data": [
+      {
+        "text": "пусть все знают какой ты классный",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "05cade82-48d9-483d-abdd-cc9ce0ea0296",
+    "data": [
+      {
+        "text": "пусть узнают все ты просто удивителен",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a5a44413-7ba4-4088-80e0-98c0926d7c26",
+    "data": [
+      {
+        "text": "давай всем расскажем какая ты замечательная",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "21862897-9a3a-4b20-896d-ec11943ef082",
+    "data": [
+      {
+        "text": "ты просто потрясающая",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

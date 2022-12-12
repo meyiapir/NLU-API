@@ -1,0 +1,106 @@
+[
+  {
+    "id": "cebd746c-a871-44bd-b5f1-fce393f6d922",
+    "data": [
+      {
+        "text": "совсем скоро буду снова здесь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "82bb3d8e-03b2-461a-ab7c-fcfa581a30fc",
+    "data": [
+      {
+        "text": "я вернусь к тебе очень скоро",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1d427efd-39ff-4baf-a179-0032bbe43979",
+    "data": [
+      {
+        "text": "скоро вернусь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "562baa3b-44ec-4a8b-b8cf-f38ac438c5e7",
+    "data": [
+      {
+        "text": "я вернусь к тебе через минуту",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "01afc73a-d1dc-4b78-804a-74b5bf4b74d3",
+    "data": [
+      {
+        "text": "буду снова здесь через 5 минут",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "869bca1e-bccc-4cf7-a39a-7aea7f7f6eab",
+    "data": [
+      {
+        "text": "скоро буду",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "dc3b1b98-9c99-4e23-b37a-e7261a114407",
+    "data": [
+      {
+        "text": "обещаю скоро вернусь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8da1edc0-79e0-408f-be14-8f77907b375e",
+    "data": [
+      {
+        "text": "я вернусь через несколько минут",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

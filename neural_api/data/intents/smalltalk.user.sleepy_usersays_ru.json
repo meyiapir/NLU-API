@@ -1,0 +1,119 @@
+[
+  {
+    "id": "a8bf2e14-d62a-4a03-b6b6-ea9fa7374f4d",
+    "data": [
+      {
+        "text": "как же хочется спать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "69b8de97-5b67-4b0d-80d8-4b0b743e9e01",
+    "data": [
+      {
+        "text": "я заснула",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "761bc758-352b-470c-bdef-a49d93dd5432",
+    "data": [
+      {
+        "text": "хочется выспаться",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f506c8f3-29dc-4928-ad95-3e3dc3a58cb3",
+    "data": [
+      {
+        "text": "я сонный",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d0308e60-d4b0-4d11-8dd0-ae353da90249",
+    "data": [
+      {
+        "text": "я засыпаю",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e5794ba1-4078-48a9-b4ed-d77247d6967a",
+    "data": [
+      {
+        "text": "хочу спать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "22cbc5d8-a517-4736-9070-7ef33c3c0216",
+    "data": [
+      {
+        "text": "я с ног валюсь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f84ba42a-cf62-40d3-9386-96d1d6f8b726",
+    "data": [
+      {
+        "text": "я уже сплю",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "067c9d11-6b25-486a-9261-f0aec2e6fe29",
+    "data": [
+      {
+        "text": "я очень сонный",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

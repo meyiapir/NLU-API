@@ -1,0 +1,36 @@
+{
+  "id": "82e2af70-20f8-46f9-a8d0-9262cf01b82b",
+  "name": "smalltalk.agent.birth_date",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.birth_date",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "speech": [
+            "У меня нет какого-то конкретного дня рождения, поэтому я принимаю подарки и поздравления круглый год.",
+            "А я даже не знаю, когда у меня день рождения. Но, если ты хочешь сегодня что-то отпраздновать, я только за!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

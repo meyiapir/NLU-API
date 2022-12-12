@@ -1,0 +1,93 @@
+[
+  {
+    "id": "9143299d-af75-48e2-be77-471345632aed",
+    "data": [
+      {
+        "text": "где ты работаешь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8381fbe0-3bd4-48b3-a406-1f5ea4c85a17",
+    "data": [
+      {
+        "text": "где твоя работа",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f5cce855-55b5-4bb8-80bd-5556e0149d46",
+    "data": [
+      {
+        "text": "где работаешь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "056d2956-526c-4261-9566-ab4690118ff0",
+    "data": [
+      {
+        "text": "где твой офис",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "bb336927-0bcf-4234-897f-767dcf2e1431",
+    "data": [
+      {
+        "text": "где располагается твой офис",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "fb71cb2e-228c-4ac5-a28e-49eb5793011c",
+    "data": [
+      {
+        "text": "расположение твоего офиса",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "be0a0448-4f1e-483f-b1af-dd8473739a75",
+    "data": [
+      {
+        "text": "где расположен твой офис",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

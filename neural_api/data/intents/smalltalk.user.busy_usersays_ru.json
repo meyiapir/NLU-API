@@ -1,0 +1,93 @@
+[
+  {
+    "id": "754da6a7-72d6-402b-873f-f581d568987a",
+    "data": [
+      {
+        "text": "я занят",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ee55b911-9164-4b97-92f5-27c86d136141",
+    "data": [
+      {
+        "text": "я поглощен работой",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b8bb93ff-8490-47e2-a539-9a64e09d2bd4",
+    "data": [
+      {
+        "text": "у меня дела",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "7b206f4f-954f-4da9-abb6-7f149a1243b8",
+    "data": [
+      {
+        "text": "я очень занят",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "7ddc6757-2f74-4cd7-ba6c-98abceceb1bb",
+    "data": [
+      {
+        "text": "пора заняться работой",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "16c93fdd-b4a2-4c75-9c7c-19244a02ff31",
+    "data": [
+      {
+        "text": "я работаю",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f8ca8798-cc87-48ab-85d1-36febc5160a4",
+    "data": [
+      {
+        "text": "на это нет времени",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

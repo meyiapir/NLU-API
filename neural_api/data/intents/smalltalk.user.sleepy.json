@@ -1,0 +1,38 @@
+{
+  "id": "bb665d68-34d3-4d70-ac94-d58920f03ac8",
+  "name": "smalltalk.user.sleepy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.sleepy",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "speech": [
+            "Так закрывай глазки и засыпай. А потом проснёшься и закончишь все дела.",
+            "А ты возьми и поспи. А потом проснёшься и закончишь со всеми делами.",
+            "А ты приляг и поспи. Все дела лучше решать на свежую голову.",
+            "Нужно обязательно спать хотя бы по семь часов в день. Сон - это здоровье."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "3ac26682-2811-4cda-8c59-fa2d671e7a79",
+    "data": [
+      {
+        "text": "я снова здесь с тобой",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f9a71cd2-4f5c-4d87-9d23-0f845ff792dc",
+    "data": [
+      {
+        "text": "и снова я здесь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "643abc6d-71fc-44e5-8f19-7814d245adb8",
+    "data": [
+      {
+        "text": "я вернулся",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "4e15e729-db0b-4c7b-bdc2-fe645efe59fc",
+    "data": [
+      {
+        "text": "я снова здесь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1ff7c02d-5a6c-4192-8aa5-26eae610e25c",
+    "data": [
+      {
+        "text": "а вот и я",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e9a078b7-e7d1-4b6f-b18a-4a129f1e691f",
+    "data": [
+      {
+        "text": "это снова я",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "0268450c-2a11-41fa-bb2f-d3126d497c0e",
+    "data": [
+      {
+        "text": "я вернулась",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b63575bc-0697-4424-aea6-7f7c9fcf90aa",
+    "data": [
+      {
+        "text": "я снова тут",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]
