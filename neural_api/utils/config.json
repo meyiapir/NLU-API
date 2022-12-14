@@ -1,7 +1,7 @@
 {
     "C_ST": 100,
     "MAX_ITER": 200,
-    "TARGET_SCORE": 0.81,
+    "TARGET_SCORE": 0.82,
     "GOOD_SCORE": 0.79,
     "TEST_SIZE": 0.2
 }
