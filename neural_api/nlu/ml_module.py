@@ -7,8 +7,7 @@ from loguru import logger
 
 path = Path(__file__).resolve().parent.parent
 
-PATH_TO_MODELS = f'{path}\\work_data\\models'
-
+PATH_TO_MODELS = f'{path}/work_data/models'
 models_weights = []
 
 for dir_name in list(os.walk(PATH_TO_MODELS))[0][1]:  # Получение списка папок с моделями
@@ -23,9 +22,9 @@ else:
     logger.error('No available models found.')
     exit(1)
 
-MODEL_PATH = f'{PATH_TO_MODELS}\\{MODEL_NAME}'
+MODEL_PATH = f'{PATH_TO_MODELS}/{MODEL_NAME}'
 
-with open(f'{path}\\work_data\\nlp_intent_data.json', 'r',
+with open(f'{path}/work_data/nlp_intent_data.json', 'r',
           encoding='utf-8') as f:  # Загрузка конфига
     BOT_CONFIG = json.load(f)
 logger.success('NLP Data is loaded')
@@ -40,13 +39,13 @@ def clean(text: str) -> str:  # Очистка текста
     return clean_text
 
 
-with open(f'{MODEL_PATH}\\ml_model.joblib', 'rb') as f, \
-        open(f'{MODEL_PATH}\\vectorizer.joblib', 'rb') as f2:  # Открытие модели
+with open(f'{MODEL_PATH}/ml_model.joblib', 'rb') as f, \
+        open(f'{MODEL_PATH}/vectorizer.joblib', 'rb') as f2:  # Открытие модели
     clf = load(f)
     vectorizer = load(f2)
 
-with open(f'{MODEL_PATH}\\tests\\x_test.joblib', 'rb') as f, \
-        open(f'{MODEL_PATH}\\tests\\y_test.joblib', 'rb') as f2:
+with open(f'{MODEL_PATH}/tests/x_test.joblib', 'rb') as f, \
+        open(f'{MODEL_PATH}/tests/y_test.joblib', 'rb') as f2:
     X_test = load(f)
     y_test = load(f2)
 

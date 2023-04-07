@@ -15,6 +15,9 @@ def main():
 
 
 if __name__ == "__main__":
-    sleep(0.1)
-    main()
-    input("Press Enter to exit...")
+    try:
+        sleep(0.1)
+        main()
+        input("Press Enter to exit...")
+    except KeyboardInterrupt:
+        exit(0)
