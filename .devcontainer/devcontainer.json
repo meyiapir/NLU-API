@@ -1,32 +1,24 @@
+
 {
-    "name": "NLU API Development Container",
-    "image": "mcr.microsoft.com/devcontainers/python:3.11-bullseye",
-    "customizations": {
-        "vscode": {
-            "settings": {
-                "python.pythonPath": "/usr/local/bin/python"
-            },
-            "extensions": [
-                "ms-python.python",
-                "ms-python.vscode-pylance",
-                "ms-azuretools.vscode-docker",
-                "esbenp.prettier-vscode",
-                "redhat.vscode-yaml",
-                "streetsidesoftware.code-spell-checker"
-            ]
-        }
-    },
-    "postCreateCommand": "pip install -r requirements.txt",
-    "forwardPorts": [8000],
-    "portsAttributes": {
-        "8000": {
-            "label": "FastAPI",
-            "onAutoForward": "notify"
-        }
-    },
-    "remoteUser": "vscode",
-    "workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind",
-    "workspaceFolder": "/workspace",
-    "runArgs": ["--env-file", ".env"],
-    "onCreateCommand": "pip3 install -r requirements.txt"
+	"name": "Python 3",
+	"image": "mcr.microsoft.com/devcontainers/python:1-3.12",
+
+	"customizations": {
+		"vscode": {
+			"settings": {},
+			"extensions": [
+				"streetsidesoftware.code-spell-checker"
+			]
+		}
+	},
+	
+	"forwardPorts": [8000],
+
+	"portsAttributes": {
+		"8000": {
+			"label": "Hello Remote World",
+			"onAutoForward": "notify"
+		}
+	},
+	"postCreateCommand": "pip3 install -r requirements.txt"
 }
