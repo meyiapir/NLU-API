@@ -28,5 +28,5 @@
     "workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind",
     "workspaceFolder": "/workspace",
     "runArgs": ["--env-file", ".env"],
-    "onCreateCommand": "uvicorn web-api:app --reload --host 0.0.0.0 --port 8000"
+    "onCreateCommand": "pip3 install -r requirements.txt"
 }
