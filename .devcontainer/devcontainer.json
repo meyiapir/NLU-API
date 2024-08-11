@@ -1,0 +1,32 @@
+{
+    "name": "NLU API Development Container",
+    "image": "mcr.microsoft.com/devcontainers/python:3.11-bullseye",
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "python.pythonPath": "/usr/local/bin/python"
+            },
+            "extensions": [
+                "ms-python.python",
+                "ms-python.vscode-pylance",
+                "ms-azuretools.vscode-docker",
+                "esbenp.prettier-vscode",
+                "redhat.vscode-yaml",
+                "streetsidesoftware.code-spell-checker"
+            ]
+        }
+    },
+    "postCreateCommand": "pip install -r requirements.txt",
+    "forwardPorts": [8000],
+    "portsAttributes": {
+        "8000": {
+            "label": "FastAPI",
+            "onAutoForward": "notify"
+        }
+    },
+    "remoteUser": "vscode",
+    "workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind",
+    "workspaceFolder": "/workspace",
+    "runArgs": ["--env-file", ".env"],
+    "onCreateCommand": "uvicorn web-api:app --reload --host 0.0.0.0 --port 8000"
+}
